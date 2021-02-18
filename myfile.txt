@@ -1,0 +1,1883 @@
+__invalid__ i DR. P. BHASIN S- 13 GREATER KAILASH PART- |
+__invalid__ y 5 NEW DELHI-1 10048
+__invalid__ @ T +91-11-4163 4173, 4163 2200
+__invalid__ fr 24 Hrs Helpine : 91-93111 93111
+__invalid__ QR \e A T H 6 A B S (P) LTD. www. bhasinpathlabs.com
+__invalid__ CIN :- U85200DL1999PTC101458
+__invalid__ NABL ACCREDITED ISO 9001 CERTIFIED RECOGNISED BY GOVT. OF INDIA
+__invalid__ Name Mr. RAHUL TIWARI Booking Date 19/12/2019
+__invalid__ Gender/Age Male 28 Yrs
+__invalid__ Ref. By Reporting Date 19/12/2019
+__invalid__ Center GK-1 :10 Test Printed On. 19/12/2019
+__invalid__ Lab No. 101949720 DeliveryMode: Direct/By Hand
+__invalid__ Permanent Id
+__invalid__ Test Name Value Unit Biological Ref Interval
+__invalid__ SOVA Beta Panel
+__valid__ Haemoglobin 14.8 gm/dl 13.0 - 16.0
+__invalid__ SLS Hb
+__invalid__ XN1000
+__valid__ Total Leucocyte (WBC) Count 7.91 kcells/ul 4.00 - 10.00
+__invalid__ Hydrodynamic Focusing
+__invalid__ XN1000
+__invalid__ Differential Leucocyte Count with IG
+__invalid__ 6 Part
+__invalid__ Flowcytometry
+__valid__ Neutrophils 53.2 % 40.0 - 80.0
+__valid__ Lymphocytes 35.4 % 20.0 - 40.0
+__valid__ Monocytes 3.9 % 2.0 - 10.0
+__valid__ Eosinophils 7.6 % 1.0 - 6.0
+__valid__ Basophils 0.3 % 0.1 - 1.0
+__valid__ Immature Granulocytes 0.10 % 0.00 - 2.00
+__invalid__ Red Cell Count with Indices
+__invalid__ Hydrodynamic Focusing
+__valid__ Red Blood Cell Count 4.67 Million/cumm 4.70 - 6.00
+__invalid__ Hydrodynamic Focusing
+__valid__ Nucleated RBCs Count (NRBC) 0 % of WBC 0.00 - 5.00
+__valid__ Packed Cell Volume 43.4 % 42.0 - 52.0
+__invalid__ Hydrodynamic Focusing
+__valid__ Mean Corpuscular Volume (MCV), 92.9 Fl 78.0 - 100.0
+__invalid__ Calculated
+__valid__ Mean Corpuscular Haemoglobin (MCH) 31.7 pg 27.0 - 31.0
+__invalid__ Calculated
+__valid__ MCHC-Mean Corpuscular Haemoglobin 34.1 pg 31.5 - 34.5
+__invalid__ Concentration
+__invalid__ Calculated
+__valid__ RDW - CV, 13.1 % 12.6 - 14.5
+__invalid__ Red Cell Distribution Width Co Efficient of Variation
+__invalid__ \Fesh Po N Py own f
+__invalid__ eer “RG -
+__invalid__ Oratighuy Bhasin, Dr Neha Bhasin Dr Vipul Bhasin Dr Nitika Aggarwal
+__invalid__ ERS thologist and Direct ecutive Directs ree Pathol anirects OC Itant Biochemi Const nt Microbiojoast
+__invalid__ 0 atnologist an lrector Executive Director ons Fatnologispirector onsultant biocnem| ons LOV® 2 & > 7
+__invalid__ DMGARI15869 4 4 DMC No 90662 Ror D See he The AIF LABS CP) LTD.
+__invalid__ Advise : Reports are not for medico-legal cases. If highly abnormal or do not co relate clinically please contact lab without hesitation.
+__invalid__ 24x7x365 LAB| ULTRASOUND | ECG| TMT | COLOUR DOPPLER | ECHOCARDIOGRAPHY | PFT] BONE DENSITOMETRY | UROFLOWMETRY
+__invalid__ iD) jee ey 3 HAS IN S- 13 GREATER KAILASH PART- |
+__invalid__ y 5 NEW DELHI-1 10048
+__invalid__ @. T +91-11-4163 4173, 4163 2200
+__invalid__ 24 Hrs Helpine : 91-93111 93111
+__invalid__ QR \e A T H 6 A B S (P) LTD. www. bhasinpathlabs.com
+__invalid__ CIN :- U85200DL1999PTC101458
+__invalid__ NABL ACCREDITED ISO 9001 CERTIFIED RECOGNISED BY GOVT. OF INDIA
+__invalid__ Name Mr. RAHUL TIWARI Booking Date 19/12/2019
+__invalid__ Gender/Age Male 28 Yrs
+__invalid__ Ref. By Reporting Date 19/12/2019
+__invalid__ Center GK-1 :10 Test Printed On. 19/12/2019
+__invalid__ Lab No. 101949720 DeliveryMode: Direct/By Hand
+__invalid__ Permanent Id
+__invalid__ Test Name Value Unit Biological Ref Interval
+__valid__ RDW - SD, 42.8 Fl 39.0 - 46.0
+__invalid__ Red Cell Distribution Width Standard Deviation
+__invalid__ Platelet Counts
+__invalid__ __valid__Platelet Count 3.05 Lakh/cum 1.50 - 4.50
+__invalid__ Impedance
+__valid__ Platelet Distribution Width (PDW) 12 % 10-18
+__valid__ Platelet - Least Cell Ratio 28.20
+__valid__ Mean Platelet Volume (MPV) 10 fL 6-95
+__invalid__ Vithe Oreo: tyyoann /
+__invalid__ eer “RG -
+__invalid__ Drsvishy Bhasin, Dr Neha Bhasin Dr Vipul Bhasin Dr Nitika Aggarwal
+__invalid__ N Pe hol dD Mees. MD (Pathology) Pathol aoe va , Bioch MBBS, MD (Microbiology)
+__invalid__ Eo athologist and Director Executive Director ons Pathologigtirector onsultant Biochemi ons it Mi iojogi RCE Py IT
+__invalid__ DMG/RY15869 DMC No 90662 Por D See teases PH LABS CP) LED,
+__invalid__ Advise : Reports are not for medico-legal cases. If highly abnormal or do not co relate clinically please contact lab without hesitation.
+__invalid__ 24x7x365 LAB| ULTRASOUND | ECG| TMT | COLOUR DOPPLER | ECHOCARDIOGRAPHY | PFT] BONE DENSITOMETRY | UROFLOW METRY
+__invalid__ D jee ey B HAS IN S- 13 GREATER KAILASH PART- |
+__invalid__ Z a NEW DELHI-1 10048
+__invalid__ @. T +91-11-4163 4173, 4163 2200
+__invalid__ 24 Hrs Helpine : 91-93111 93111
+__invalid__ QR P A T H 16 A B S) (P) NBs enernai a einsteae ncn
+__invalid__ CIN :- U85200DL1999PTC101458
+__invalid__ NABL ACCREDITED ISO 9001 CERTIFIED RECOGNISED BY GOVT. OF INDIA
+__invalid__ Name Mr. RAHUL TIWARI Booking Date 19/12/2019
+__invalid__ Gender/Age Male 28 Yrs
+__invalid__ Ref. By Reporting Date 19/12/2019
+__invalid__ Center GK-1 :10 Test Printed On. 19/12/2019
+__invalid__ Lab No. 101949720 DeliveryMode: Direct/By Hand
+__invalid__ Permanent Id
+__invalid__ Test Name Value Unit Biological Ref Interval
+__valid__ Blood Sugar (Fasting) 97 mg/dL 70-110
+__invalid__ Hexokinase
+__invalid__ INTEGRA
+__valid__ HbA1c 3.9 % 4.5 -6.3
+__invalid__ HPLC
+__valid__ BUN 8 7 - 20
+__valid__ Creatinine, Serum 0.8 mg/dL 0.3-1.5
+__invalid__ Jaffes Kinetic
+__invalid__ INTEGRA
+__valid__ Uric Acid 5.4 mg/dL 2.6 - 8.0
+__invalid__ Uricase
+__valid__ Sodium, Serum 134 Meq/L 136 - 145
+__invalid__ lon selective Electrode
+__valid__ Potassium, Serum 4.1 Med/L 3.5-5.5
+__invalid__ lon selective Electrode
+__valid__ Chloride, Serum 97.2 Meq/L 98.0 - 110.0
+__valid__ Total Bilirubin, Serum 0.51 mg/dL 0.10 - 1.00
+__invalid__ Diazotised Sulphanilic Acid
+__valid__ Aspartate Transaminase (SGOT), Serum 18 U/L 0 - 40
+__invalid__ Enzymatic
+__valid__ Alanine Transaminase (SGPT), Serum 11 U/L 0-41
+__invalid__ Enzymatic
+__valid__ Alkaline Phosphatase, Serum 83 U/L 50 - 136
+__invalid__ AMP Buffer
+__invalid__ INTEGRA
+__valid__ Gamma Glutamy] Transferase, Serum 17 U/L 10-71
+__invalid__ IFCC Reference Method
+__invalid__ INTEGRA
+__invalid__ lesbo Pron N Ay on f
+__invalid__ ee ~ a} - 2
+__invalid__ Drsriput Bhasin Dr Vishu Bhasin, Dr Neha Bhasin Dr Nitika Aggarwal
+__invalid__ N Pace Bioch Come Oe hol dD eS Mo ratnology) p MBBS, MD (Microbiology)
+__invalid__ Dir onsultant Biochemist onsultant Pathologist and Director Executive Director & Cons Pat is ons it Mi iofogi aS EP) LT
+__invalid__ DMGiN®d 90662 DMC/R/15869 "PlsBISES Sere Tee AIH LABS CP) LTD.
+__invalid__ Advise : Reports are not for medico-legal cases. If highly abnormal or do not co relate clinically please contact lab without hesitation.
+__invalid__ 24x7x365 LAB| ULTRASOUND | ECG] TMT | COLOUR DOPPLER | ECHOCARDIOGRAPHY | PFT| BONE DENSITOMETRY | UROFLOW METRY
+__invalid__ D jee ey B HAS IN S- 13 GREATER KAILASH PART- |
+__invalid__ Z 5 NEW DELHI-110048
+__invalid__ @. T +91-11-4163 4173, 4163 2200
+__invalid__ 24 Hrs Helpine : 91-93111 93111
+__invalid__ QR P A T H 16 A B S) (P) NBs enernai a einsteae ncn
+__invalid__ CIN :- U85200DL1999PTC101458
+__invalid__ NABL ACCREDITED ISO 9001 CERTIFIED RECOGNISED BY GOVT. OF INDIA
+__invalid__ Name Mr. RAHUL TIWARI Booking Date 19/12/2019
+__invalid__ Gender/Age Male 28 Yrs
+__invalid__ Ref. By Reporting Date 19/12/2019
+__invalid__ Center GK-1 :10 Test Printed On. 19/12/2019
+__invalid__ Lab No. 101949720 DeliveryMode: Direct/By Hand
+__invalid__ Permanent Id
+__invalid__ Test Name Value Unit Biological Ref Interval
+__invalid__ Proteins, Serum
+__valid__ Total Proteins, Serum 7.0 g/dL 5.5 - 8.0
+__invalid__ Modified Biuret Reaction
+__valid__ Albumin, Serum 4.7 g/dl 3.5-5.5
+__invalid__ Bromocresol Purple
+__valid__ Globulin, Serum 2.3 g/dl 2.0 - 3.5
+__valid__ Albumin / Globulin Ratio 2.0 g/dl 0.8 - 2.0
+__valid__ Magnesium, Serum 1.9 mg/dL 1.8 - 3.0
+__invalid__ Methylthymol Blue
+__valid__ Inorganic Phosphorus, Serum 4.9 mg/dL 2.5 - 5.0
+__invalid__ Phosphomolybdate
+__invalid__ Lipid Profile
+__valid__ Triglycerides, Serum 57 mg/dL 25-175
+__invalid__ Lipoprotein Lipase/POD
+__invalid__ INTEGRA
+__invalid__ Desirable :25-175
+__invalid__ Borderline High : 175 - 200
+__invalid__ High : 201 - 499
+__invalid__ Very High : > 500
+__valid__ Cholesterol Total, Serum 123 mg/dL 100 - 200
+__invalid__ Cholesterol Esterase
+__invalid__ Desirable : < 200
+__invalid__ Borderlne High : 200 - 239
+__invalid__ High : > 240
+__valid__ Cholesterol HDL, Serum 37.1 mg/dL 40.0 - 60.0
+__invalid__ Polyethylene Glycerol/Magnesium Sulfate
+__invalid__ INTEGRA
+__valid__ Cholesterol LDL, Serum 74.5 mg/dL 0.0 - 100.0
+__invalid__ Calculated
+__valid__ Cholesterol VLDL, Serum 11.4 mg/dL 10.0 - 35.0
+__valid__ LDL-C / HDL - C, Ratio 2.0 mg/dL 2.5 - 3.0
+__valid__ Cholesterol Total / HDL - C, Ratio 3.3 mg/dL 3.5 - 5.5
+__invalid__ lesbo Pron N Ay on f
+__invalid__ ee mo - 2
+__invalid__ Drsriput Bhasin Dr Vishu Bhasin, Dr Neha Bhasin Dr Nitika Aggarwal
+__invalid__ N eae Biochemi Come Oe tholoaist and Direct eee MD (ratnology) Pat ; MBBS, MD (Microbiology)
+__invalid__ Bir onsultant Biochemist onsultant Pathologist and Director Executive Director & Cons Pat is Ons iol aS EP) IT
+__invalid__ DMGiN®d 90662 DMC/R/15869 "PlsBISES Sere Tee AIH LABS CP) LTD.
+__invalid__ Advise : Reports are not for medico-legal cases. If highly abnormal or do not co relate clinically please contact lab without hesitation.
+__invalid__ 24x7x365 LAB| ULTRASOUND | ECG| TMT | COLOUR DOPPLER | ECHOCARDIOGRAPHY | PFT] BONE DENSITOMETRY | UROFLOW METRY
+__invalid__ D 2a P B HAS IN S- 13 GREATER KAILASH PART- I
+__invalid__ y o NEW DELHI-1 10048
+__invalid__ @. T +91-11-4163 4173, 4163 2200
+__invalid__ 24 Hrs Helpine : 91-93111 93111
+__invalid__ QR \e A T H 6 A B S (P) LTD. www. bhasinpathlabs.com
+__invalid__ CIN :- U85200DL1999PTC101458
+__invalid__ NABL ACCREDITED ISO 9001 CERTIFIED RECOGNISED BY GOVT. OF INDIA
+__invalid__ Name Mr. RAHUL TIWARI Booking Date 19/12/2019
+__invalid__ Gender/Age Male 28 Yrs
+__invalid__ Ref. By Reporting Date 19/12/2019
+__invalid__ Center GK-1 :10 Test Printed On. 19/12/2019
+__invalid__ Lab No. 101949720 DeliveryMode: Direct/By Hand
+__invalid__ Permanent Id
+__invalid__ Test Name Value Unit Biological Ref Interval
+__valid__ Total Lipid 303.0 mg/dL 400.0 - 800.0
+__invalid__ Hormone Assays
+__valid__ T3 (Total), Serum 1.32 nmol/L 0.92 - 2.79
+__invalid__ CLIA
+__valid__ T4 (Total), Serum 112.8 nmol/L 71.0 - 161.0
+__invalid__ CLIA
+__invalid__ RocheCOBASE411
+__valid__ Thyroid Stimulating Hormone (TSH), Serum 2.19 ulU/L 0.50 - 5.50
+__invalid__ CLIA
+__invalid__ RocheCOBASE411
+__invalid__ TSH levels are subject to circardian variation, reaching peak levels between 2 - 4 AM and at a minimum between 6 - 10 PM. The variation is of order of 50%, hence time of the day has
+__invalid__ influence on measured TSH concentrations.
+__valid__ Vitamin D 25 Hydroxy Total, Serum 14.03 ng/ml 30.00 - 120.00
+__invalid__ CLIA
+__invalid__ RocheCOBASE411
+__valid__ Cortisol (Morning), Serum 6.1 ug/dl 5.0 - 25.0
+__invalid__ CLIA
+__invalid__ Immulite2000Xpi
+__invalid__ Nutritional Markers
+__valid__ Vitamin B12, Serum 552.40 pg/ml 211.00 - 911.00
+__invalid__ CLIA
+__invalid__ RocheCOBASE411
+__valid__ Ferittin, Serum 54.8 ng/ml 15.0 - 200.0
+__invalid__ ECLIA
+__invalid__ RocheCOBASE411
+__valid__ Folic Acid, Serum 3.68 ng/ml 5.31 - 100.00
+__invalid__ CLIA
+__invalid__ RocheCOBASE411
+__invalid__ lesbo Pron N Ay on f
+__invalid__ ———o 74a a
+__invalid__ Drsriput Bhasin Dr Vishu Bhasin, Dr Neha Bhasin Dr Nitika Aggarwal
+__invalid__ N Pace Bioch Come Oe hol dD eS Mo ratnology) p MBBS, MD (Microbiology)
+__invalid__ Dir onsultant Biochemist onsultant Pathologist and Director Executive Director & Cons Pat is ons it Mi iofogi aS EP) LT
+__invalid__ DMGiN®d 90662 DMC/R/15869 "PlsBISES Sere Tee AIH LABS CP) LTD.
+__invalid__ Advise : Reports are not for medico-legal cases. If highly abnormal or do not co relate clinically please contact lab without hesitation.
+__invalid__ 24x7x365 LAB| ULTRASOUND | ECG] TMT | COLOUR DOPPLER | ECHOCARDIOGRAPHY | PFT| BONE DENSITOMETRY | UROFLOW METRY
+__invalid__ D 2a P B HAS IN S- 13 GREATER KAILASH PART- |
+__invalid__ y o NEW DELHI-1 10048
+__invalid__ @. T +91-11-4163 4173, 4163 2200
+__invalid__ 24 Hrs Helpine : 91-93111 93111
+__invalid__ QR i A a, lel 6 A B S (P) LTD. www. bhasinpathlabs.com
+__invalid__ CIN :- U85200DL1999PTC101458
+__invalid__ NABL ACCREDITED ISO 9001 CERTIFIED RECOGNISED BY GOVT. OF INDIA
+__invalid__ Name Mr. RAHUL TIWARI Booking Date 19/12/2019
+__invalid__ Gender/Age Male 28 Yrs
+__invalid__ Ref. By Reporting Date 19/12/2019
+__invalid__ Center GK-1 :10 Test Printed On. 19/12/2019
+__invalid__ Lab No. 101949720 DeliveryMode: Direct/By Hand
+__invalid__ Permanent Id
+__invalid__ Test Name Value Unit Biological Ref Interval
+__valid__ Calcium, Serum 9.6 mg/dL 8.1 - 10.4
+__invalid__ CLIA
+__invalid__ INTEGRA
+__invalid__ Cardiac Markers
+__valid__ High Sensitivity C-Reactive Protein, 0.3 mg/l 0.0 - 3.0
+__invalid__ Serum
+__invalid__ Immunoturbidemetry
+__invalid__ INTEGRA
+__invalid__ No RIsk : <1.0
+__invalid__ Moderate Risk : 1.0 - 3.0
+__invalid__ High RIsk > 3.0-5.9
+__invalid__ Acute Inflamation : > 6.0
+__invalid__ Interpretation :-
+__invalid__ The American College of Cardiology Foundations and the American Heart Association recommend :-
+__invalid__ 1. hs-CRP testing may be useful when men 50 years old or younger and women 60 years old or younger, who have
+__invalid__ intermediate risk.
+__invalid__ 2. It also may be useful for treatment decisions when men and women are older than these respective ages and
+__invalid__ have LDL-C less than 130 mg/L and meet several other criteria, such as no existing heart disease,diabetes, kidney
+__invalid__ disease, or inflammatory conditions.
+__invalid__ 3. When hs-CRP is evaluated, it may be repeated to confirm that a person has persistent low levels of inflammation.
+__invalid__ 4. These values are only a part of the total evaluation process for cardiovascular diseases.
+__invalid__ 5. Additional risk factors to be considered are elevated levels of cholesterol, LDL-C, triglycerides, and glucose.
+__invalid__ 6. Values higher than 6 are suggestive of acute inflammation and are not useful for cardiac risk evaluation.
+__invalid__ Vestn Cran Seren /
+__invalid__ _ ~y 2
+__invalid__ Drsriput Bhasin Dr Vishu Bhasin, Dr Neha Bhasin Dr Nitika Aggarwal
+__invalid__ N pale MBBS, DCP MBBS, MD (Pathology) MBBS, MD (Microbiology)
+__invalid__ Dir Consultant Biochemist Consultant Pathologist and Director Executive Director & Cons Pat is ons it Mi iofogi aS EP) LT
+__invalid__ DMGiN®d 90662 DMC/R/15869 "PlsBISES Sere Tee AIH LABS CP) LTD.
+__invalid__ Advise : Reports are not for medico-legal cases. If highly abnormal or do not co relate clinically please contact lab without hesitation.
+__invalid__ 24x7x365 LAB| ULTRASOUND | ECG] TMT | COLOUR DOPPLER | ECHOCARDIOGRAPHY | PFT| BONE DENSITOMETRY | UROFLOW METRY
+__invalid__ Important.pdf------------------------------------------------------
+__invalid__ processep AT: fq) “=CAP  Thyrocare
+__invalid__ (MO): fees
+__invalid__ Thyrocare ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 CERTIFICATE NO. ME-2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ HOMOCYSTEINE PHOTOMETRY 15.2 mol/L
+__invalid__ Reference Range :-
+__invalid__ < 30
+__invalid__ Clinical Significance:
+__invalid__ Homocysteine is linked to increased risk of premature coronary artery disease, stroke and thromboembolism. Moreover,
+__invalid__ alzheimer’s disease, osteoporosis, venous thrombosis, schizophrenia, cognitive deficiency and pregnancy complications also
+__invalid__ elevates Homocysteine levels.
+__invalid__ High Values:
+__invalid__ Elevated homocysteine levels might be due to increasing age, genetic traits, drugs, renal dysfunction and dietary deficiency of
+__invalid__ vitamins or smoking. To lower your homocysteine, eat more green vegetables, stop smoking, alcohol. Folic acid helps lowering
+__invalid__ elevated levels.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- ENZYMATIC ASSAY
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) :28 Jul 2020 13:16 | “0
+__invalid__ a -
+__invalid__ Sample Type Or i® : SERUM
+__invalid__ Labcode aes : 2707004700/A4964 Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode “aber :Q3815850 Page : 1 of 24
+__invalid__ Oux a
+__invalid__ PROCESSED AT: ya) = CAP Thyrocare
+__invalid__ (MO): fees
+__invalid__ Thyrocare ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 CERTIFICATE NO. ME-2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ CYSTATIN C IMMUNOTURBIDIMETRY 0.8 mg/L
+__invalid__ Reference Range :-
+__invalid__ <= 60 years: <= 1.03 mg/L
+__invalid__ > 60 years : < 1.50 mg/L
+__invalid__ Clinical significance
+__invalid__ Cystatin c, is a small 13-kda protein and is a member of the cysteine proteinase inhibitor family, it is produced at a constant rate
+__invalid__ by all nucleated cells. Due to its small size it is freely filtered by the glomerulus and is not secreted but is fully reabsorbed and
+__invalid__ broken down by the renal tubules. This means that the primary determinate of blood Cystatin c levels is the rate at which it is
+__invalid__ filtered at the glomerulus making it an excellent gfr marker. Cystatin c is also a marker of inflammation and like many other
+__invalid__ markers of inflammation; its serum concentration may be higher in patients with decreased renal clearance. There is mounting
+__invalid__ evidence, however, that Cystatin c may be a predictor of adverse outcomes independent of renal function with its higher
+__invalid__ sensitivity to detect a reduced GFR than Creatinine determination, also in the so-called “Creatinine-blind” range. Thus, Cystatin c
+__invalid__ is suggested to be a better marker for GFR than the ubiquitous serum Creatinine.
+__invalid__ Reference
+__invalid__ 1. Barrett aj, Davies me, Grubb a. the place of human gamma-trace (Cystatin c) among the cysteine proteinase inhibitors. Biochem
+__invalid__ biophys res common 1984; 120: 631-6.
+__invalid__ 2. Grubb a. diagnostic value of analysis of Cystatin c and protein HC in biological fluids. Clin Nephrol 1992; 38: S20-7.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- LATEX ENHANCED IMMUNOTURBIDIMETRY
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 “ ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964_—-D-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 2 of 24
+__invalid__ PROCESSED AT! ya) CAP Thyrocare
+__invalid__ (MO): fees
+__invalid__ Thyrocare ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 CERTIFICATE NO. ME-2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ LIPOPROTEIN (A) [LP(A)] IMMUNOTURBIDIMETRY 38.7 mg/dl
+__invalid__ Reference Range :-
+__invalid__ Adults : < 30.0 mg/dl
+__invalid__ Interpretation:
+__invalid__ Determination of LPA may be useful to guide management of individuals with a family history of CHD or with existing disease. The
+__invalid__ levels of LPA in the blood depends on genetic factors; The range of variation in a population is relatively large and hence for
+__invalid__ diagnostic purpose, results should always be assessed in conjunction with the patient’s medical history, clinical examination and
+__invalid__ other findings.
+__invalid__ Specifications:
+__invalid__ Precision: Intra Assay (%CV): 3.4 %, Inter Assay (%CV): 2.0 %; Sensitivity: 0.002 gm/I
+__invalid__ External Quality Control Program Participation:
+__invalid__ College of American Pathologists: General Chemistry and TDM; CAP Number: 7193855-01
+__invalid__ Kit Validation References:
+__invalid__ Koschinsky ML, Marcovina SM. Lipoprotein A: Structural Implication for Pathophysiology. Int ] Clin Lab Res, 1997; 27: 14-23.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- LATEX ENHANCED IMMUNOTURBIDIMETRY
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) :28 Jul 2020 13:16 | “0 ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 —-Dr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 3 of 24
+__invalid__ PROCESSED AT: LED etn: Th
+__invalid__ We Se HN °
+__invalid__ Thyrocare "he" CA Pe VIO Cal C
+__invalid__ D-37/1,TTC MIDC,Turbhe, SEEe ACCREDITED a _______
+__invalid__ cane, NO SN or COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 ome The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3. TTC MY OC, Turbne. Navi Mumsa - 400703
+__invalid__ @& WI O22 30900000 $4225 72525 MW ssylsasven Ma wellaesa@tryracare.com Clwaywetqyyracare.caom >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ LAB, HOSHANGABAD RD, KUNJAN NAGAR PHASE
+__invalid__ TEST ASKED : AAROGYAM 1.6 II, BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ ANTI CCP (ACCP) E.L.I.S.A 4.75 RU/ml
+__invalid__ Reference Range :
+__invalid__ Negative : < 25
+__invalid__ Positive : > 25
+__invalid__ Clinical Significance :
+__invalid__ Anti-Cyclic-Citrullinated-Peptide (Anti-CCP) Antibodies hold promise for early and more accurate detection of Rheumatoid Arthritis
+__invalid__ before the disease proceeds into an irreversible damage.
+__invalid__ Analytical Specifications :
+__invalid__ Anti-Cyclic-Citrullinated-Peptide (Anti-CCP) antibodies are detected using a solid phase enzyme immuno assay having an analytical
+__invalid__ sensitivity of 25 RU/ml. Sensitivity of the method is 99% and specificity is 98.5%.
+__invalid__ Method : SOLID PHASE CAPTURE ENZYME IMMUNOASSAY
+__invalid__ ANTI NUCLEAR ANTIBODIES (ANA) E.L.I.S.A 3.8 AU/mL
+__invalid__ Reference Range:
+__invalid__ NEGATIVE : < 25
+__invalid__ POSITIVE : > 25
+__invalid__ Method: SOLID PHASE ENZYME IMMUNOASSAY
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 a
+__invalid__ Sample Received on (SRT) :28 Jul 2020 03:28 - ‘ Ke Nat
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 a es
+__invalid__ Sample Type : SERUM -
+__invalid__ Labcode : 2707004700/A4964 ~—-Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode :Q3815850 Page : 4 of 24
+__invalid__ PROCESSED AT: SEQ woh h
+__invalid__ hag Sune °
+__invalid__ Thyrocare "he" CA Pe T yrOcal C
+__invalid__ D-37/1,TTC MIDC,Turbhe, SSE ACCREDITED Sn
+__invalid__ CERTIFSCATE NO.: NIE 2407 COLLEGE of AMERICAN PATHOLOGISTS . ;
+__invalid__ Navi Mumbai-400 703 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3. TTC MY OC, Turbne. Navi Mumsa - 400703
+__invalid__ @& WI O22 30900000 $4225 72525 MW ssylsasven Ma wellaesa@tryracare.com Clwaywetqyyracare.caom >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ LAB, HOSHANGABAD RD, KUNJAN NAGAR PHASE
+__invalid__ TEST ASKED : AAROGYAM 1.6 II, BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ APOLIPOPROTEIN - Al (APO-A1) IMMUNOTURBIDIMETRY 149 mg/dL
+__invalid__ Reference Range :
+__invalid__ Male : 86-152
+__invalid__ Female : 94-162
+__invalid__ Method : FULLY AUTOMATED RATE IMMUNOTURBIDIMETRY — BECKMAN COULTER
+__invalid__ APOLIPOPROTEIN - B (APO-B) IMMUNOTURBIDIMETRY 71 mg/dL
+__invalid__ Reference Range :
+__invalid__ Male : 56-145
+__invalid__ Female : 53-138
+__invalid__ Method : FULLY AUTOMATED RATE IMMUNOTURBIDIMETRY — BECKMAN COULTER
+__invalid__ APO B / APO A1 RATIO (APO B/A1) CALCULATED 0.5 Ratio
+__invalid__ Reference Range :
+__invalid__ Male : 0.40 - 1.26
+__invalid__ Female : 0.38 - 1.14
+__invalid__ Method : DERIVED FROM SERUM APO Al AND APO B VALUES
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 a
+__invalid__ Sample Received on (SRT) :28 Jul 2020 03:28 - ‘ Ke Nat
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 fe es
+__invalid__ Sample Type : SERUM -
+__invalid__ Labcode : 2707004700/A4964 ~—-Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ B : 1
+__invalid__ arcode Q3815850 Page : 5 of 24
+__invalid__ PROCESSED AT: LED oh h
+__invalid__ wg Eh -
+__invalid__ Thyrocare "he" CA Pe T yrOcal C
+__invalid__ D-37/1,TTC MIDC,Turbhe, Se ACCREDITED IO
+__invalid__ cane, NO SN or COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 ome The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3. TTC MY OC, Turbne. Navi Mumsa - 400703
+__invalid__ & Mi O22 30900000 $4225 2525 WO ssulBHotbh Ma wellress@toyracare.com (.wweetwrocare.cam >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ LAB, HOSHANGABAD RD, KUNJAN NAGAR PHASE
+__invalid__ TEST ASKED : AAROGYAM 1.6 II, BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ IRON PHOTOMETRY 69.4 wd/dl
+__invalid__ Reference Range :
+__invalid__ Male : 65-175
+__invalid__ Female : 50 - 170
+__invalid__ Method: FERROZINE METHOD WITHOUT DEPROTEINIZATION /
+__invalid__ TOTAL IRON BINDING CAPACITY (TIBC) PHOTOMETRY 319.9 wd/dl
+__invalid__ Reference Range :
+__invalid__ Male: 225 - 535 ug/dl Female: 215 - 535 yg/dl
+__invalid__ Method : SPECTROPHOTOMETRIC ASSAY
+__invalid__ % TRANSFERRIN SATURATION CALCULATED 21.69 %
+__invalid__ Reference Range :
+__invalid__ 13-45
+__invalid__ Method : DERIVED FROM IRON AND TIBC VALUES
+__invalid__ FERRITIN C.L.LA 96.3 ng/ml
+__invalid__ Reference Range :
+__invalid__ Men: 22-322 ng/ml
+__invalid__ Women: 10-291 ng/ml
+__invalid__ Method : FULLY AUTOMATED BIDIRECTIONALLY INTERFACED CHEMI LUMINESCENT IMMUNO ASSAY
+__invalid__ FOLATE C.L.LA 13 ng/ml
+__invalid__ Reference Range :
+__invalid__ > 5.38 ng/ml
+__invalid__ Method : FULLY AUTOMATED CHEMI LUMINESCENT IMMUNO ASSAY
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 a
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 - ( ee he En
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 fe es
+__invalid__ Sample Type : SERUM -
+__invalid__ Labcode : 2707004700/A4964 ~—-Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode : 1
+__invalid__ 23815850 Page : 6 of 24
+__invalid__ PROCESSED AT: ya) = CAP Thyrocare
+__invalid__ (MO): tees
+__invalid__ Thyrocare ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 CERTIFICATE NO.: NIC-2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ HIGH SENSITIVITY C-REACTIVE PROTEIN (HS-CRP) IMMUNOTURBIDIMETRY 1.1 mg/L
+__invalid__ Reference Range :-
+__invalid__ Adult : <=3.0 mg/L
+__invalid__ Interpretation:
+__invalid__ High sensitivity C-reactive protein, when used in conjunction with other clinical laboratory evaluation of acute coronary
+__invalid__ syndromes, may be useful as an independent marker of prognosis for recurrent events, in patients with stable coronary disease
+__invalid__ or acute coronary syndromes. hsCRP levels should not be substituted for assessment of traditional cardiovascular risk factors.
+__invalid__ Patients with persistently unexplained, marked evaluation of hsCRP after repeated testing should be evaluated for non -
+__invalid__ cardiovascular etiologies
+__invalid__ Clinical significance:
+__invalid__ hsCRP measurements may be used as an independent risk marker for the identification of individuals at risk for future
+__invalid__ cardiovascular disease. Elevated CRP values may be indicative of prognosis of individuals with acute coronary syndromes, and
+__invalid__ may be useful in the management of such individuals.
+__invalid__ Specifications: Precision: Within run %CV has been recorded <=5%.
+__invalid__ References:
+__invalid__ 1. Chenillot O, Henny J, Steinmez J, et al. High sensitivity C-reactive protein: biological variations and reference limits. Clin Chem
+__invalid__ Lab Med 2000;38:1003-11.
+__invalid__ 2. Hind CRH, Pepys MB. The role of serum C-reactive protein measurements in clinical practice. Int Med 1984;5:112-51.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- FULLY AUTOMATED LATEX AGGLUTINATION - BECKMAN COULTER
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 “ ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 ~—-Pr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 7 of 24
+__invalid__ processep AT: (aq) %“2CAP  Thyrocare
+__invalid__ (MO): fees
+__invalid__ Thyrocare cS ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 CERTIFICATE NO. ME-2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ INSULIN - FASTING E.C.L.LA 6.29 WU/mL
+__invalid__ Reference Range :-
+__invalid__ 2.6 - 24.9 pU/mL
+__invalid__ Clinical Significance
+__invalid__ Type I (Insulin dependent: “Juvenile") diabetes is due to a destruction of the beta cells, with a consequence of absolute lack of
+__invalid__ insulin. In type II (Non insulin-dependent: “Maturity onset”) diabetes, insulin resistance may play an important role; However
+__invalid__ after several years of evolution, beta-cells failure may occur, leading to a relative insulinopenia requiring, in some cases, insulin
+__invalid__ administration. Insulin resistance is associated with high circulation levels of the hormone.
+__invalid__ For diagnostic purpose, results should always be assessed in conjunction with the patient’s medical history, clinical examination
+__invalid__ and other findings.
+__invalid__ Specifications:
+__invalid__ Precision: Intra Assay (%CV): 4.3 %, Inter Assay (%CV): 5.3%; Sensitivity: 0.04 puU/mL
+__invalid__ External quality control program participation:
+__invalid__ College Of American Pathologists: Insulin Survey (Ing): Cap Number: 7193855-01
+__invalid__ Kit validation references:
+__invalid__ Lang DA, Matthews DR, Peto J, et al.Cyclic oscillations of basal plasma glucose and insulin concentrations in human beings. N Engl
+__invalid__ J Med 1979;301:1023-1027.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- FULLY AUTOMATED ELECTROCHEMILUMINESCENCE IMMUNOASSAY
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) :28 Jul 2020 13:16 | “0 ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 —-Dr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 8 of 24
+__invalid__ Thyrocare Sse 7? VY VIO C dl C
+__invalid__ D-37/1,TTC MIDC,Turbhe, SSE ACCREDITED i
+__invalid__ CERTIMERTE NO. NRC AOF COLLEGE of AMERICAN PATHOLOGISTS . ;
+__invalid__ Navi Mumbai-400 703 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3. TTC MY OC, Turbne. Navi Mumsa - 400703
+__invalid__ & Mi O22 30900000 $4225 2525 WO ssulBHotbh Ma wellress@toyracare.com (.wweetwrocare.cam >
+__invalid__ REF. BY » SELF (4620265120),BPL PATHOLOGY
+__invalid__ LAB, HOSHANGABAD RD, KUNJAN NAGAR PHASE
+__invalid__ TEST ASKED : AAROGYAM 1.6 II, BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ 25-OH VITAMIN D (TOTAL) C.L.LA 34.46 ng/ml
+__invalid__ Reference Range :
+__invalid__ DEFICIENCY : <20 ng/ml
+__invalid__ INSUFFICIENCY : 20-<30 ng/ml
+__invalid__ SUFFICIENCY  : 30-100 ng/ml
+__invalid__ TOXICITY : >100 ng/ml
+__invalid__ Vitamin D Total test is analyzed on Siemens ADVIA Centaur, standardized against ID-LC/MS/MS, as per Vitamin D Standardization
+__invalid__ Program (VDSP).
+__invalid__ Method : FULLY AUTOMATED CHEMI LUMINESCENT IMMUNO ASSAY /
+__invalid__ VITAMIN B-12 C.L.LA 416 pg/ml
+__invalid__ Reference Range:
+__invalid__ Normal: 211 - 911 pg/ml
+__invalid__ Clinical significance :
+__invalid__ Vitamin B12 or cyanocobalamin, is a complex corrinoid compound found exclusively from animal dietary sources, such as meat, eggs
+__invalid__ and milk. It is critical in normal DNA synthesis, which in turn affects erythrocyte maturation and in the formation of myelin sheath.
+__invalid__ Vitamin-B12 is used to find out neurological abnormalities and impaired DNA synthesis associated with macrocytic anemias. For
+__invalid__ diagnostic purpose, results should always be assessed in conjunction with the patients medical history, clinical examination and
+__invalid__ other findings.
+__invalid__ Specifications: Intra assay (%CV):4.0%, Inter assay (%CV):4.4 %;Sensitivity:45 pg/ml
+__invalid__ External quality control program participation:
+__invalid__ College of American pathologists: ligand assay (general) survey; CAP number: 7193855-01
+__invalid__ Kit validation references:
+__invalid__ Chen IW,Sperling MI,Heminger IA.Vitamin B12.In:Pesce AJ,Kalpan LA,editors.Methods in clinical chemistry. St.Louis: CV
+__invalid__ Mosby,1987.P.569-73.
+__invalid__ Method : FULLY AUTOMATED BIDIRECTIONALLY INTERFACED CHEMI LUMINESCENT IMMUNO ASSAY
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 a
+__invalid__ Sample Received on (SRT) 128 Jul 2020 03:28 C ( we Nat
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 a es
+__invalid__ Sample Type : SERUM -
+__invalid__ Labcode :2707004700/A4964 ~—_Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode 7 Q3815850
+__invalid__ Q Page : 9 of 24
+__invalid__ PROCESSED AT: LED etn: Th
+__invalid__ wg Eh *
+__invalid__ Thyrocare "eee CA Pe VIO Cal C
+__invalid__ D-37/1,TTC MIDC,Turbhe, SSE ACCREDITED 7 __§____—
+__invalid__ cane, wo SN or COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 ome The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3. TTC MY OC, Turbne. Navi Mumsa - 400703
+__invalid__ & WI O22 30900000 $4225 72525 MW ssylsasven Ma wellaesa@tryracare.com Clwaywetqyyracare.caom >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ LAB, HOSHANGABAD RD, KUNJAN NAGAR PHASE
+__invalid__ TEST ASKED : AAROGYAM 1.6 II, BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ FRUCTOSAMINE PHOTOMETRY 240.3 mol/L
+__invalid__ Reference Range :
+__invalid__ <=286 umol/L
+__invalid__ Clinical Significance:
+__invalid__ The test is useful for screening of Diabetes Mellitus and Gestational Diabetic Mellitus. Fructosamine assay is useful in monitoring the
+__invalid__ degree of glycemia over short-to-intermediate time frames (1-3 weeks) concentration greater than the established normal range is
+__invalid__ an indication of prolonged hyperglycemia of 1-3 weeks or longer. The higher fructosamine value, poorer is the degree of glycemia
+__invalid__ control.
+__invalid__ Method: NITROBLUE TETRAZOLIUM ASSAY (NBT)
+__invalid__ BLOOD KETONE (D3HB) PHOTOMETRY 0.6 mg/dL
+__invalid__ Reference Range :
+__invalid__ 0.21-2.81 mg/dL
+__invalid__ Clinical Significance:
+__invalid__ Three types of ketones can be produced in body D-3- Hydroxybutyrate, Acetoacetate and Acetone. D-3- Hydroxybutyrate accounts
+__invalid__ for approximately 75% of the ketone bodies. During periods of ketosis, D-3- Hydroxybutyrate increases more than the other two. It
+__invalid__ has been shown to be a better index of ketoacidosis. In diabetics, D-3- Hydroxybutyrate is needed for the assessment of the
+__invalid__ severity of diabetic coma and to calculate insulin requirements.
+__invalid__ Method: ENZYMATIC (KINETIC)
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 a
+__invalid__ Sample Received on (SRT) :28 Jul 2020 03:28 C ( we Nat
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 a es
+__invalid__ Sample Type : SERUM -
+__invalid__ Labcode : 2707004700/A4964 ~—-Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Bar : 1
+__invalid__ arcode Q3815850 Page : 10 of 24
+__invalid__ PROCESSED AT: {EEE at CAP Th I care
+__invalid__ alk ys Gent (
+__invalid__ Thyrocare ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 cenriickte No. 2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ SERUM COPPER PHOTOMETRY 100 g/dL
+__invalid__ Reference Range :-
+__invalid__ MALE : 63.5- 150
+__invalid__ FEMALE: 80 - 155
+__invalid__ CLINICAL SIGNIFICANCE
+__invalid__ COPPER IS AN IMPORTANT TRACE ELEMENT AND A COMPONENT OF NUMEROUS ENZYMES AND PROTEINS INVOLVED IN ENERGY
+__invalid__ PRODUCTION, CONNECTIVE TISSUE FORMATION, MELANIN SYNTHESIS, IRON METABOLISM, DEVELOPMENT OF CENTRAL NERVOUS
+__invalid__ SYSTEM, ANGIOGENESIS AS WELL AS AN ANTIOXIDANT.
+__invalid__ DEFICIENCY CAN CAUSE - MALNOURISHMENT, CARDIOVASCULAR DISEASE, ANEMIA & NEUROPATHY. TOXICITY MAY BE MANIFESTED
+__invalid__ AS ACUTE RENAL FAILURE, GASTROENTERITIS & CHRONIC LIVER DISEASE.
+__invalid__ REFERENCE: CARL A. BURTIS, EDWARD R. ASHWOOD, DAVID E. BRUNS. TIETZ TEXTBOOK OF CLINICAL CHEMISTRY AND MOLECULAR
+__invalid__ DIAGNOSTICS. CHAPTER 31.VITAMINS AND TRACE ELEMENTS. PAGE: 948-952.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- 3,5-DIBR-PAESA
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ Jf pay
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) :28 Jul 2020 13:16 | “0 ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 —-Dr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 11 of 24
+__invalid__ PROCESSED AT aa) ©=CAP Thyrocare
+__invalid__ alk ys Gent
+__invalid__ Thyrocare ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 cenriickte No. 2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ SERUM ZINC PHOTOMETRY 187.02 ug/dL
+__invalid__ Reference Range :-
+__invalid__ 52 - 286
+__invalid__ CLINICAL SIGNIFICANCE
+__invalid__ ZINC IS ONE OF THE ESSENTIAL TRACE ELEMENTS IN THE BODY. ITS METALLOENZYMES PLAY A KEY ROLE IN PROTEIN AND NUCLEIC
+__invalid__ ACID SYNTHESIS, GENE EXPRESSION, WOUND HEALING, AS AN ANTIOXIDANT, ETC.
+__invalid__ DEFICIENCY CAN CAUSE - POOR WOUND HEALING, GASTROENTERITIS, IMPAIRED SPERMATOGENESIS, ALZHEIMER’S DISEASE, ETC.
+__invalid__ TOXICITY MAY BE MANIFESTED AS PANCREATITIS, GASTRIC ULCER, ANEMIA, PULMONARY FIBROSIS.
+__invalid__ REFERENCE: CARL A. BURTIS, EDWARD R. ASHWOOD, DAVID E. BRUNS. TIETZ TEXTBOOK OF CLINICAL CHEMISTRY AND MOLECULAR
+__invalid__ DIAGNOSTICS. CHAPTER 31.VITAMINS AND TRACE ELEMENTS. PAGE:960-965.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- NITRO - PAPS
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ Jf pay
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) :28 Jul 2020 13:16 | “0 ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 —-Dr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 12 of 24
+__invalid__ ee ax) §=CAP Thyrocare
+__invalid__ (OO. tg
+__invalid__ Thyrocare ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 CERTIFICATE NO. ME-2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ TESTOSTERONE C.L.I.A 388.65 ng/dL
+__invalid__ Reference Range :-
+__invalid__ Adult Male
+__invalid__ 21-49Yrs: 164.94 - 753.38
+__invalid__ 50 - 89 Yrs: 86.49 - 788.22
+__invalid__ Adult Female
+__invalid__ Pre-Menopause : 12.09 - 59.46
+__invalid__ Post-Menopause: < 7.00 - 48.93
+__invalid__ Boys
+__invalid__ 2-10 Years : < 7.00 - 25.91
+__invalid__ 11 Years : < 7.00 - 341.53
+__invalid__ 12 Years : < 7.00 - 562.59
+__invalid__ 13 Years : 9.34 - 562.93
+__invalid__ 14 Years : 23.28 - 742.46
+__invalid__ 15 Years : 144.15 - 841.44
+__invalid__ 16-21 Years : 118.22 - 948.56
+__invalid__ Girls
+__invalid__ 2-10 Years : < 7.00 - 108.30
+__invalid__ 11-15 Years :< 7.00 - 48.40
+__invalid__ 16-21 Years : 17.55 - 50.41
+__invalid__ Clinical Significance:
+__invalid__ Clinical evaluation of serum testosterone, along with serum LH, assists in evaluation of Hypogonadal males. Major causes of
+__invalid__ lowered testosterone in males include Hypogonacotropic hypogonadism, testicular failure Hyperprolactinema, Hypopituitarism
+__invalid__ some types of liver and kidney diseases and critical illness.
+__invalid__ Specifications: Precision: Intra assay (%CV): 8.5 %, Inter assay (%CV): 12.6%; Sensitivity: 7 ng/dL.
+__invalid__ External quality control program participation:
+__invalid__ College of American pathologists: Ligand assay (special) survey; cap number: 7193855-01
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- FULLY AUTOMATED BIDIRECTIONALLY INTERFACED CHEMI LUMINESCENT IMMUNO ASSAY
+__invalid__ Sample Collected on (SCT) :27 Jul 2020 13:49 yy ae
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 “ ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 —-Dr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 13 of 24
+__invalid__ PROCESSED AT: ya) = CAP Thyrocare
+__invalid__ Thyrocare cS ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 CERTIFICATE NO. ME-2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ AMYLASE PHOTOMETRY 51.3 U/L
+__invalid__ Reference Range :-
+__invalid__ Adults : 28-100 U/L
+__invalid__ Interpretation:
+__invalid__ Lipemic Sera (Hypertriglyceridemia) may contain inhibitors, Which falsely depress results. About 20% of patients with Acute
+__invalid__ Pancreatitis have abnormal lipids. Normal serum amylase may occur in Pancreatitis, Especially relapsing and chronic pancreatitis.
+__invalid__ Moderate increases may be reported in normal pregnancy.
+__invalid__ Clinical Significance:
+__invalid__ Causes of high Serum Amylase include Acute Pancreatitis, Pancreatic Pseudocyst, Pancreatic Ascites, Pancreatic Abscess,
+__invalid__ Neoplasm in or adjacent to Pancreas, Trauma to Pancreas, and common Duct Stones. Nonpancreatic Causes include inflammatory
+__invalid__ salivary lesions (Eg, Mumps), Perforated Peptic Ulcer, Intestinal Obstruction, Biliary Tract Disease, Peritonitis, Acute Appendicitis,
+__invalid__ Diabetic Ketoacidosis, and Extrapancreatic Carcinomas. Amylase levels more than 25-fold the upper limit of normal are often found
+__invalid__ when metastatic tumors produce Ectopic Amylase.
+__invalid__ Specifications:
+__invalid__ Precision: Within run %CV has been recorded 1% and between run %CV of 1.5%. Analytical sensitivity (Lower Detection Limit) 3
+__invalid__ U/I
+__invalid__ Kit Validation References:
+__invalid__ Tietz Nw, Huang WY, Rauh DF ET Al. Laboratory tests in the differential diagnosis of Hyperamylasemia. Clin Chem 1986;32:
+__invalid__ 301-307
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- ENZYMATIC PHOTOMETRIC TEST.
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 “ ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 —-Dr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 14 of 24
+__invalid__ PROCESSED AT: ya) = CAP Thyrocare
+__invalid__ (MO): tees
+__invalid__ Thyrocare cS ACCREDITED y
+__invalid__ D-37/1,TTC MIDC,Turbhe, Prey COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 CERTIFICATE NO. ME-2407 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ LIPASE PHOTOMETRY 44.3 U/L
+__invalid__ Reference Range :-
+__invalid__ Adults : 5.6 - 51.3 U/L
+__invalid__ Interpretation:
+__invalid__ For diagnostic purposes, the results should always be assessed in conjunction with the patient’s medical history, clinical
+__invalid__ examination and other findings like serum amylase. Serum Lipase is usually normal in patients with elevated serum amylase,
+__invalid__ having peptic ulcer, salivary adenitis, inflammatory bowel disease, intestinal obstruction, and macroamylasemia. Lipemic sera may
+__invalid__ interfere with results.
+__invalid__ Clinical Significance:
+__invalid__ High serum Lipase is a specific marker for pancreatitis; after acute pancreatitis the Lipase activity increases within 4-8 hours,
+__invalid__ reaches a peak after 24 hours and decreases after 8 to 14 days. However, there is no correlation between the Lipase activity
+__invalid__ determined in serum and the extent of damage to the pancreas.
+__invalid__ Specifications:
+__invalid__ Precision: Within run %CV has been recorded 1.16 % and between run %CV of 0.65 %. Analytical sensitivity (lower detection
+__invalid__ limit) 3 U/l
+__invalid__ Kit Validation References:
+__invalid__ Tietz Nw Et Al. Lipase In Serum - The Elusive Enzyme: An Overview. Clin Chem 1993; 39:746-756.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- ENZYMATIC COLORIMETRIC ASSAY
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ wy
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina
+__invalid__ Report Released on (RRT) :28 Jul 2020 13:16 | “0 ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 _~—-Dr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 15 of 24
+__invalid__ PROCESSED AT: GED “ath Th .
+__invalid__ Sf, We geskbeds
+__invalid__ Thyrocare ae "eee CA Pp yrocal C
+__invalid__ D-37/1,TTC MIDC,Tu rbhe, Sez og eee oes , - :
+__invalid__ Navi Mumbai-400 703 cance sao) . The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 D-37/3, T7C MDC, Turbne, Navi Murisa - 400703
+__invalid__ @& meO22 30900000 $4225 2525 Os69lsosce6 Ma wellaess@tnyrocare.com (Ch wiawethyrocare.cam >
+__invalid__ REF. BY » SELF (4620265120),BPL PATHOLOGY LAB, HOSHANGABAD RD,
+__invalid__ . KUNJAN NAGAR PHASE II, BAGMUGALIYA, BHOPAL,
+__invalid__ TEST ASKED =: AAROGYAM 1.6 MADHYA PRADESH 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS NORMAL RANGE
+__invalid__ ALKALINE PHOSPHATASE PHOTOMETRY 67.5 U/L 45-129
+__invalid__ BILIRUBIN - TOTAL PHOTOMETRY 1.02 mg/dl 0.3-1.2
+__invalid__ BILIRUBIN -DIRECT PHOTOMETRY 0.21 mg/dl < 0.3
+__invalid__ BILIRUBIN (INDIRECT) CALCULATED 0.81 mg/dl 0-0.9
+__invalid__ GAMMA GLUTAMYL TRANSFERASE (GGT) PHOTOMETRY 21.9 U/I <55
+__invalid__ ASPARTATE AMINOTRANSFERASE (SGOT ) PHOTOMETRY 38.2 U/I <35
+__invalid__ ALANINE TRANSAMINASE (SGPT) PHOTOMETRY 49.3 U/I < 45
+__invalid__ PROTEIN - TOTAL PHOTOMETRY 6.34 gm/dl 5.7-8.2
+__invalid__ ALBUMIN - SERUM PHOTOMETRY 3.93 gm/dl 3.2-4.8
+__invalid__ SERUM GLOBULIN PHOTOMETRY 2.41 gm/dL 2.5-3.4
+__invalid__ SERUM ALB/GLOBULIN RATIO CALCULATED 1.63 Ratio 0.9-2
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method :
+__invalid__ ALKP - Modified IFCC method
+__invalid__ BILT - Vanadate Oxidation
+__invalid__ BILD - Vanadate Oxidation
+__invalid__ BILI - DERIVED FROM SERUM TOTAL AND DIRECT BILIRUBIN VALUES
+__invalid__ GGT - Modified IFCC method
+__invalid__ SGOT - IFCC* WITHOUT PYRIDOXAL PHOSPHATE ACTIVATION
+__invalid__ SGPT - IFCC* WITHOUT PYRIDOXAL PHOSPHATE ACTIVATION
+__invalid__ PROT - BIURET METHOD
+__invalid__ SALB - ALBUMIN BCG1METHOD (COLORIMETRIC ASSAY ENDPOINT)
+__invalid__ SEGB - DERIVED FROM SERUM ALBUMIN AND PROTEIN VALUES
+__invalid__ A/GR - DERIVED FROM SERUM ALBUMIN AND PROTEIN VALUES
+__invalid__ Sample Collected on (SCT) : 27 Jul 2020 13:49 . “ _
+__invalid__ " : * pn
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( acti -
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 . — ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode : 2707004700/A4964 Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode : Q3815850 Page : 16 of 24
+__invalid__ PROCESSED AT: GED “EDs: Th .
+__invalid__ Sf, xa geskbeds
+__invalid__ Thyrocare ae "eee CA Pp yrocal C
+__invalid__ D-37/1,TTC MIDC,Turbhe, wey ee ee ee oom , - :
+__invalid__ Navi Mumbai-400 703 cnkhewo Yao? The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 D-37/3, T7C MDC, Turbne, Navi Murisa - 400703
+__invalid__ @& mOO22 30900000 $4225 2525 Ogsylsesceo Sa wellaess@tryrocare.com Cl wwwethyrocare.com >
+__invalid__ NAME Ly SAMPLE COLLECTED AT :
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY LAB, HOSHANGABAD RD,
+__invalid__ . KUNJAN NAGAR PHASE II, BAGMUGALIYA, BHOPAL,
+__invalid__ TEST ASKED =: AAROGYAM 1.6 MADHYA PRADESH 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS NORMAL RANGE
+__invalid__ TOTAL CHOLESTEROL PHOTOMETRY 142 mg/dl 125-200
+__invalid__ HDL CHOLESTEROL - DIRECT PHOTOMETRY 55 mg/dl 35-80
+__invalid__ LDL CHOLESTEROL - DIRECT PHOTOMETRY 85 mg/dl 85-130
+__invalid__ TRIGLYCERIDES PHOTOMETRY 50 mg/dl 25-200
+__invalid__ TC/ HDL CHOLESTEROL RATIO CALCULATED 2.6 Ratio 3-5
+__invalid__ LDL / HDL RATIO CALCULATED 1.5 Ratio 1.5-3.5
+__invalid__ VLDL CHOLESTEROL CALCULATED 10 mg/dl 5-40
+__invalid__ NON-HDL CHOLESTEROL CALCULATED 87.2 mg/dl < 160
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method :
+__invalid__ CHOL - CHOD POD METHOD
+__invalid__ HCHO - ENZYME SELECTIVE PROTECTION METHOD
+__invalid__ LDL - HOMOGENOUS ENZYMATIC COLORIMETRIC ASSAY
+__invalid__ TRIG - ENZYMATIC COLORIMETRIC METHOD (GPO) [HIGHLY INFLUENCED BY LEVEL OF FASTING]
+__invalid__ TC/H - DERIVED FROM SERUM CHOLESTEROL AND HDL VALUES
+__invalid__ LDL/ - Derived from serum HDL and LDL Values
+__invalid__ VLDL - DERIVED FROM SERUM TRIGLYCERIDE VALUES
+__invalid__ NHDL - Derived from serum Cholesterol and HDL values
+__invalid__ *REFERENCE RANGES AS PER NCEP ATP III GUIDELINES:
+__invalid__ TOTAL CHOLESTEROL (mg/dl) HDL (mg/dl) LDL (mg/dl) TRIGLYCERIDES (mg/dl)
+__invalid__ DESIRABLE <200 Low <40 OPTIMAL <100 NORMAL <150
+__invalid__ BORDERLINE HIGH 200-239 HIGH >60 NEAR OPTIMAL 100-129 BORDERLINE HIGH 150-199
+__invalid__ HIGH >240 BORDERLINE HIGH 130-159 HIGH 200-499
+__invalid__ HIGH 160-189 VERY HIGH >500
+__invalid__ VERY HIGH >190
+__invalid__ Alert !!! 10-12 hours fasting is mandatory for lipid parameters. If not, values might fluctuate.
+__invalid__ Sample Collected on (SCT) : 27 Jul 2020 13:49 . “ _
+__invalid__ " : * pn
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( acti -
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 . — ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode : 2707004700/A4964 Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode : Q3815850 Page : 17 of 24
+__invalid__ PROCESSED AT: GOEL Anh Th
+__invalid__ Tidy Ath *
+__invalid__ Thyrocare ae AC -CAP YI C) C are
+__invalid__ D-37/1,TTC MIDC,Turbhe, OSes Y COLLEGE of AMERICAN PATHOLOGISTS
+__invalid__ Navi Mumbai-400 703 cannutaee wo. YOao1 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0.37/3. TTC MOC, Turbne, Navi Murisa © 400703
+__invalid__ @& M22 30900000 $4225 72525 @ 85918665066 Ma wellness@tnyrocare.com Ch wawityyrocare.com >
+__invalid__ REF. BY . (4620265120),BPL PATHOLOGY LAB, HOSHANGABAD RD,
+__invalid__ . * SELF KUNJAN NAGAR PHASE II, BAGMUGALIYA, BHOPAL,
+__invalid__ TEST ASKED > AAROGYAM 1.6 MADHYA PRADESH 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS REFERENCE RANGE
+__invalid__ TOTAL TRIIODOTHYRONINE (T3) C.L.LA 89 ng/dl 60-200
+__invalid__ TOTAL THYROXINE (T4) C.L.LA 6.8 ug/dl 4.5-12
+__invalid__ THYROID STIMULATING HORMONE (TSH) C.L.LA 1.97 uIU/m!l 0.3-5.5
+__invalid__ Comments : SUGGESTING THYRONORMALCY
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method :
+__invalid__ T3 - COMPETITIVE CHEMI LUMINESCENT IMMUNO ASSAY
+__invalid__ T4 - COMPETITIVE CHEMI LUMINESCENT IMMUNO ASSAY
+__invalid__ TSH - SANDWICH CHEMI LUMINESCENT IMMUNO ASSAY
+__invalid__ Sample Collected on (SCT) : 27 Jul 2020 13:49 . ‘ ;
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 : (, ae .
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 es
+__invalid__ Sample Type : SERUM °
+__invalid__ Labcode : 2707004700/A4964 = Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode : Q3815850 Page : 18 of 24
+__invalid__ PROCESSED AT: GED “EDs: Th .
+__invalid__ Sf, xa geskbeds
+__invalid__ Thyrocare ae fee CA Pp yrocal C
+__invalid__ D-37/1,1TC MIDC,Turbhe, Cee eee cx , - :
+__invalid__ Navi Mumbai-400 703 cance sao) The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 D-37/3, T7C MDC, Turbne, Navi Murisa - 400703
+__invalid__ @& MOO22 30900000 $225 2525 OB ssylsesveh Ma wellaess@tnyrocare.com () www.tnyrocare.cam >
+__invalid__ NAME Ly SAMPLE COLLECTED AT :
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY LAB, HOSHANGABAD RD,
+__invalid__ . KUNJAN NAGAR PHASE II, BAGMUGALIYA, BHOPAL,
+__invalid__ TEST ASKED * AAROGYAM 1.6 MADHYA PRADESH 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS NORMAL RANGE
+__invalid__ CALCIUM PHOTOMETRY 9.28 mg/dl 8.8-10.6
+__invalid__ URIC ACID PHOTOMETRY 6.89 mg/dl 4.2 -7.3
+__invalid__ BLOOD UREA NITROGEN (BUN) PHOTOMETRY 15.11 mg/dl 7-25
+__invalid__ CREATININE - SERUM PHOTOMETRY 1.03 mg/dl 0.6-1.1
+__invalid__ BUN / SR.CREATININE RATIO CALCULATED 14.67 Ratio 9:1-23:1
+__invalid__ SODIUM I.S.E 140.6 mmol/| 136 - 145
+__invalid__ CHLORIDE I.S.E 105.4 mmol/| 98 - 107
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method :
+__invalid__ CALC - ARSENAZO III METHOD, END POINT.
+__invalid__ URIC - Uricase / Peroxidase Method
+__invalid__ BUN - KINETIC UV ASSAY.
+__invalid__ SCRE - CREATININE ENZYMATIC METHOD
+__invalid__ B/CR - DERIVED FROM SERUM BUN AND CREATININE VALUES
+__invalid__ SOD - ION SELECTIVE ELECTRODE
+__invalid__ CHL - ION SELECTIVE ELECTRODE
+__invalid__ Sample Collected on (SCT) : 27 Jul 2020 13:49 . “ _
+__invalid__ " : * pn
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( acti -
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 . — Z
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode : 2707004700/A4964 Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode : Q3815850 Page : 19 of 24
+__invalid__ PROCESSED AT: Th .
+__invalid__ Thyrocare VIO C al eC
+__invalid__ D-37/1,TTC MIDC,Turbhe,
+__invalid__ Navi Mumbai-400 703 The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3.T7C M1 OC, Turpne, Navi Mumoa - 400703
+__invalid__ @& fof? 30900000 )4225 2525 Wxsgeescee Ma wellaessi@thyrocare.com () wwyetyrocare.com >
+__invalid__ REF. BY : SELF (4620265120),BPL PATHOLOGY
+__invalid__ . LAB,HOSHANGABAD RD, KUNJAN NAGAR PHASE II,
+__invalid__ TEST ASKED * AAROGYAM 1.6 BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ 462001.462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ EST. GLOMERULAR FILTRATION RATE (eGFR) CALCULATED 94 mL/min/1.73 m2
+__invalid__ Reference Range :-
+__invalid__ > = 90 : Normal
+__invalid__ 60-89  : Mild Decrease
+__invalid__ 45-59 : Mild to Moderate Decrease
+__invalid__ 30-44 : Moderate to Severe Decrease
+__invalid__ 15-29 : Severe Decrease
+__invalid__ Clinical Significance
+__invalid__ The normal serum creatinine reference interval does not necessarily reflect a normal GFR for a patient. Because mild and
+__invalid__ moderate kidney injury is poorly inferred from serum creatinine alone. Thus, it is recommended for clinical laboratories to routinely
+__invalid__ estimate glomerular filtration rate (eGFR), a “gold standard” measurement for assessment of renal function, and report the value
+__invalid__ when serum creatinine is measured for patients 18 and older, when appropriate and feasible. It cannot be measured easily in
+__invalid__ clinical practice, instead, GFR is estimated from equations using serum creatinine, age, race and sex. This provides easy to
+__invalid__ interpret information for the doctor and patient on the degree of renal impairment since it approximately equates to the
+__invalid__ percentage of kidney function remaining. Application of CKD-EPI equation together with the other diagnostic tools in renal
+__invalid__ medicine will further improve the detection and management of patients with CKD.
+__invalid__ Reference
+__invalid__ Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF, 3rd, Feldman HI, et al. A new equation to estimate glomerular filtration
+__invalid__ rate. Ann Intern Med. 2009;150(9):604-12.
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method:- CKD-EPI Creatinine Equation
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . “ a!
+__invalid__ ey “ne
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:28 ( ina ,
+__invalid__ Report Released on (RRT) : 28 Jul 2020 13:16 | a ,
+__invalid__ Sample Type : SERUM
+__invalid__ Labcode :2707004700/A4964 _~—-Dr-Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD (Micro)
+__invalid__ Barcode :Q3815850 Page : 20 of 24
+__invalid__ PROCESSED AT: Harmonizing Hemoglobin Ate Testing GEER “ttt .
+__invalid__ Thyrocare @INGsP rer CA Pe Thyra Care
+__invalid__ D-37/1,TTC MIDC,Turbhe, “S=————O Souk eee gs 0
+__invalid__ Navi Mumbai-400 703 TEN The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 0-37/3. TTC MY OC, Turbne. Navi Mumsa - 400703
+__invalid__ & WI O22 30900000 $4225 72525 MW ssylsasven Ma wellaesa@tryracare.com Clwaywetqyyracare.caom >
+__invalid__ NAME : [ SAMPLE COLLECTED AT :
+__invalid__ REF. BY » SELF (4620265120),BPL PATHOLOGY
+__invalid__ LAB, HOSHANGABAD RD, KUNJAN NAGAR PHASE
+__invalid__ TEST ASKED ? ELEMENTS 22 (TOXIC AND NUTRIENTS),HBA,HEMOGRAM II, BAGMUGALIYA, BHOPAL, MADHYA PRADESH
+__invalid__ - 6 PART (DIFF) 462001,462026
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS
+__invalid__ HbAic - (HPLC - NGSP Certified)
+__invalid__ H.P.L.C 5.4 %
+__invalid__ Reference Range :
+__invalid__ Below 5.7% : Normal Below 6.5% : Good Control
+__invalid__ 5.7% - 6.4% : Prediabetic 6.5% - 7% _ : Fair Control
+__invalid__ >=6.5% : Diabetic 7.0% - 8% : Unsatisfactory Control
+__invalid__ SSS
+__invalid__ Method: = Fully Automated H.P.L.C. using Biorad Variant II Turbo, NGSP Certified.
+__invalid__ AVERAGE BLOOD GLUCOSE (ABG) CALCULATED 108 mg/dl
+__invalid__ Reference Range :
+__invalid__ 90 - 120 mg/dl : Good Control
+__invalid__ 121 - 150 mg/dl : Fair Control
+__invalid__ 151 - 180 mg/dl : Unsatisfactory Control
+__invalid__ Method: Derived from HBAic values
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Sample Collected on (SCT) 127 Jul 2020 13:49 . a
+__invalid__ Sample Received on (SRT) :28 Jul 2020 03:07 ¢ ‘ne Nat
+__invalid__ Report Released on (RRT) : 28 Jul 2020 06:20 woo | |
+__invalid__ Sample Type : EDTA -
+__invalid__ Labcode :2707048587/A4964 _— Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode :Q3815838 Page : 21 of 24
+__invalid__ PROCESSED AT: LEE Sy
+__invalid__ Thyrocare CAPs Thyrcocare
+__invalid__ D-37/1,TTC MIDC,Turbhe, SSE ACCREDITED © i nen
+__invalid__ Navi Mumbai-400 703 ed The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 D-37/3. 17°C MOC, Turbne, Navi Murios - 900703
+__invalid__ @& (O22 30900000 (41252525 @ssglsescbh Ma wellaessttyyrocare.com (lL wovvetayrocare.com >
+__invalid__ NAME ————_—_—s| SAMPLE COLLECTED AT :
+__invalid__ REF. BY > SELF (4620265120),BPL PATHOLOGY
+__invalid__ TESTASKED : ELEMENTS 22 (TOXIC AND NUTRIENTS),HBA, HEMOGRAM TL BAGMUGALIYA, BHOP AL, MADHYA PRADESH
+__invalid__ 462001,462026
+__invalid__ TEST NAME VALUE UNITS REFERENCE RANGE
+__invalid__ TOTAL LEUCOCYTES COUNT 3.58 X102 /pL 4.0-10.0
+__invalid__ NEUTROPHILS 54 % 40-80
+__invalid__ LYMPHOCYTE PERCENTAGE 33.2 % 20-40
+__invalid__ MONOCYTES 3.4 % 0-10
+__invalid__ EOSINOPHILS 8.9 % 0.0-6.0
+__invalid__ BASOPHILS 0.2 % <2
+__invalid__ IMMATURE GRANULOCYTE PERCENTAGE(IG%) 0.3 % 0-0.5
+__invalid__ NEUTROPHILS - ABSOLUTE COUNT 1.93 X 102 /pL 2.0-7.0
+__invalid__ LYMPHOCYTES - ABSOLUTE COUNT 1.19 X 103 / UL 1.0-3.0
+__invalid__ MONOCYTES - ABSOLUTE COUNT 0.12 X 103 / pL 0.2-1
+__invalid__ BASOPHILS - ABSOLUTE COUNT 0.00716 X 103 / UL 0-0.1
+__invalid__ EOSINOPHILS - ABSOLUTE COUNT 0.32 X 103 / uL 0-0.5
+__invalid__ IMMATURE GRANULOCYTES(IG) 0.01 X 103 / UL 0-0.3
+__invalid__ TOTAL RBC 5.3 X 10%6/uL 4.5-5.5
+__invalid__ NUCLEATED RED BLOOD CELLS Nil X 103 / uL <0.01
+__invalid__ NUCLEATED RED BLOOD CELLS % Nil % <0.01
+__invalid__ HEMOGLOBIN 15.6 g/dL 13-17
+__invalid__ HEMATOCRIT(PCV) 47.2 % 40-50
+__invalid__ MEAN CORPUSCULAR VOLUME(MCV) 89.1 fL 83-101
+__invalid__ MEAN CORPUSCULAR HEMOGLOBIN(MCH) 29.4 pq 27-32
+__invalid__ MEAN CORP.HEMO.CONC(MCHC) 33.1 g/dL 31.5-34.5
+__invalid__ RED CELL DISTRIBUTION WIDTH - SD(RDW-SD) 49 fL 39-46
+__invalid__ RED CELL DISTRIBUTION WIDTH (RDW-CV) 15 % 11.6-14
+__invalid__ PLATELET COUNT 125 X 102 / pL 150-400
+__invalid__ Remarks: = Alert!!! WBCs:Mild Leukopenia is present. Degenerated cells are seen. Platelets: Appear mildly reduced in smear.
+__invalid__ Macroplatelets are seen.
+__invalid__ Please Correlate with clinical conditions.
+__invalid__ Method : Fully automated bidirectional analyser (6 Part Differential SYSMEX XN-1000)
+__invalid__ (This device performs hematology analyses according to the Hydrodynamic Focussing (DC method), Flow
+__invalid__ Cytometry Method (using a semiconductor laser), and SLS- hemoglobin method)
+__invalid__ Sample Collected on (SCT) :27 Jul 2020 13:49 . -
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:07 é ( a Inawrh™
+__invalid__ Report Released on (RRT) :28 Jul 2020 06:20 eo ,
+__invalid__ Sample Type : EDTA °
+__invalid__ Labcode : 2707048587/A4964 — Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ Barcode : Q3815838 Page : 22 of 24
+__invalid__ PROCESSED AT: GE itt Th .
+__invalid__ xy, nicl:
+__invalid__ Thyrocare ae Thee CA Pp VIC Cal C
+__invalid__ D-37/1,TTC MIDC,Turbhe, See ee ee ee oom , - :
+__invalid__ Navi Mumbai-400 703 cance sao) , The Trust. The Truth.
+__invalid__ Corporate Office : Thyrocare Technologies Limited 9 D-37/3, T7C MDC, Turbne, Navi Murisa - 400703
+__invalid__ @& O22 30900000 $225 2525 Mxsglk6esue6 Ma wellagss@tnyrocare.com (lwwwetoyrocare.com >
+__invalid__ REF. BY » SELF (4620265120),BPL PATHOLOGY LAB, HOSHANGABAD RD,
+__invalid__ KUNJAN NAGAR PHASE II, BAGMUGALIYA, BHOPAL,
+__invalid__ TEST ASKED : ELEMENTS 22 (TOXIC AND NUTRIENTS),HBA,HEMOGRAM mapHYA PRADESH 462001,462026
+__invalid__ - 6 PART (DIFF)
+__invalid__ TEST NAME TECHNOLOGY VALUE UNITS NORMAL RANGE
+__invalid__ ARSENIC ICP-MS 0.79 Ug/| <5
+__invalid__ CADMIUM ICP-MS 0.22 ug/| < 1.5
+__invalid__ MERCURY ICP-MS 0.32 ug/| <5
+__invalid__ LEAD ICP-MS 86.89 ug/| < 150
+__invalid__ CHROMIUM ICP-MS 0.93 ug/| < 30
+__invalid__ BARIUM ICP-MS 1.41 ug/| < 30
+__invalid__ COBALT ICP-MS 0.17 ug/| 0.10 - 1.50
+__invalid__ CAESIUM ICP-MS 3.94 ug/| <5
+__invalid__ THALLIUM ICP-MS 0.04 ug/| <1
+__invalid__ URANIUM ICP-MS 0.03 ug/| <1
+__invalid__ STRONTIUM ICP-MS 16.97 ug/| 8 - 38
+__invalid__ ANTIMONY ICP-MS 12 ug/| 0.10 -18
+__invalid__ TIN ICP-MS 0.48 ug/| <2
+__invalid__ MOLYBDENUM ICP-MS 0.74 ug/| 0.70 - 4.0
+__invalid__ SILVER ICP-MS 2.42 ug/| <4
+__invalid__ VANADIUM ICP-MS 0.33 ug/| < 0.8
+__invalid__ BERYLLIUM ICP-MS 0.02 yg/I 0.10 - 0.80
+__invalid__ BISMUTH ICP-MS 0.14 ug/| 0.10 - 0.80
+__invalid__ SELENIUM ICP-MS 243.55 ug/| 60 - 340
+__invalid__ ALUMINIUM ICP-MS 2.65 ug/| < 30
+__invalid__ NICKEL ICP-MS 2.98 ug/| <15
+__invalid__ MANGANESE ICP-MS 10.61 ug/| 7.10 - 20
+__invalid__ Please correlate with clinical conditions.
+__invalid__ Method :
+__invalid__ ICP - MASS SPECTROMETRY
+__invalid__ Note:Reference range has been obtained after considering 95% population as cutoff.
+__invalid__ ~~ End of report ~~
+__invalid__ Sample Collected on (SCT) : 27 Jul 2020 13:49 . “ _
+__invalid__ ° : a fa
+__invalid__ Sample Received on (SRT) : 28 Jul 2020 03:07 ( acti -
+__invalid__ Report Released on (RRT) : 28 Jul 2020 06:20 . — “
+__invalid__ Sample Type ORR : EDTA
+__invalid__ Labcode ee eas : 2707048587/A4964 Dr.Prachi Sinkar MD(Path) Dr.Caesar Sengupta MD(Micro)
+__invalid__ = -_
+__invalid__ Barcode oaadter : Q3815838 Page : 23 of 24
+__invalid__ CONDITIONS OF REPORTING
+__invalid__ “+ The reported results are for information and interpretation of the referring doctor only.
+__invalid__ “+ It is presumed that the tests performed on the specimen belong to the patient; named or identified.
+__invalid__ “+ Results of tests may vary from laboratory to laboratory and also in some parameters from time to time for the same
+__invalid__ patient.
+__invalid__ “+ Should the results indicate an unexpected abnormality, the same should be reconfirmed.
+__invalid__ ** Only such medical professionals who understand reporting units, reference ranges and limitations of technologies
+__invalid__ should interpret results.
+__invalid__ “+ This report is not valid for medico-legal purpose.
+__invalid__ “* Neither Thyrocare, nor its employees/representatives assume any liability, responsibility for any loss or damage that
+__invalid__ may be incurred by any person as a result of presuming the meaning or contents of the report.
+__invalid__ “+ Thyrocare Discovery video link :- https://youtu.be/nbdYeRqYyQc
+__invalid__ “+ For clinical support please contact @8450950851,8450950852,8450950853,8450950854 between 10:00 to 18:00
+__invalid__ EXPLANATIONS
+__invalid__ “+ Majority of the specimen processed in the laboratory are collected by Pathologists and Hospitals we call them
+__invalid__ as "Clients".
+__invalid__ “+ Name - The name is as declared by the client and recored by the personnel who collected the specimen.
+__invalid__ “+ Ref.Dr - The name of the doctor who has recommended testing as declared by the client.
+__invalid__ “* Labcode - This is the accession number in our laboratory and it helps us in archiving and retrieving the data.
+__invalid__ “+ Barcode - This is the specimen identity number and it states that the results are for the specimen bearing
+__invalid__ the barcode (irrespective of the name).
+__invalid__ “+ SCP - Specimen Collection Point - This is the location where the blood or specimen was collected as declared by
+__invalid__ the client.
+__invalid__ “* SCT - Specimen Collection Time - The time when specimen was collected as declared by the client.
+__invalid__ “* SRT - Specimen Receiving Time - This time when the specimen reached our laboratory.
+__invalid__ “* RRT - Report Releasing Time - The time when our pathologist has released the values for Reporting.
+__invalid__ “+ Reference Range - Means the range of values in which 95% of the normal population would fall.
+__invalid__ SUGGESTIONS
+__invalid__ “* Values out of reference range requires reconfirmation before starting any medical treatment.
+__invalid__ “+ Retesting is needed if you suspect any quality shortcomings.
+__invalid__ “+ Testing or retesting should be done in accredited laboratories.
+__invalid__ ** For suggestions, complaints or feedback, write to us at info@thyrocare.com or call us on
+__invalid__ 022-3090 0000 / 4125 2525
+__invalid__ “+ SMS:<Labcode No.> to 9870666333
+__invalid__ Preventive Healthcare is now at your fingertips!
+__invalid__ _—, e Download Thyroapp Now
+__invalid__ = e a = q ‘
+__invalid__ | = zm Re, & = Oe
+__invalid__ sae el (= 7 Se £ = = Bercy re
+__invalid__ Explore & Selec Book Through spooking Track your Blood Sample Report rere me
+__invalid__ Test / Profil App Conf tHe Technician Collection Testing & Receipt fo) ah ee
+__invalid__ aint re ru i
+__invalid__ Are you chronically tired, feel bloated, have abdominal pain, Fie a 2:
+__invalid__ , brain fog or suffer from recurrent cold or sinus problems? 2 Wik’: Sued = Bee a ee
+__invalid__ Pe ES Ee, x
+__invalid__ Healthy food does not mean its good for you... a eS an a4
+__invalid__ Understand the facts behind your symptoms with P - ‘ 7
+__invalid__ Food Intolerance profile >> 2 SE ae ae
+__invalid__ Ch Xs 8 \ . wm
+__invalid__ g * ‘os . Pe A a
+__invalid__ 9 categories including 217 food items . :
+__invalid__ >» Meat (16) > Dairy (9) » Vegetables (39)
+__invalid__ » Cereals (18) > Fish (38) » Spices (31)
+__invalid__ > Nuts (11) » Fruits (38) >» Miscellaneous (17)
+__invalid__ on, . ; . Scan Me
+__invalid__ Pencsdl doutwanae acy he, ES (S : 8422849896 Ey Thyrocare
+__invalid__ DO I ®: foodi@thyrocare.com fl The Trust. The Truth.
+__invalid__ Thyrocare Video
+__invalid__ Page : 24 of 24
+__invalid__ GoodToHave.pdf -----------------------------------------------------------------------------
+__invalid__ co | DrReddvlab.com @ Lifespan Diagnostics Laboratories | i On oy a)
+__invalid__ yw ae eM ON eee Govt. of India Corporate ID No.: U74999DL2017PTC324311 | Vice TPPC (See
+__invalid__ ~~ Initiated by RLIFESPAN customer Care 9871 59 | iorbeertiperienee’ ROIs NEBL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ BIOCHEMISTRY
+__invalid__ Test Name Result Unit(s) Normal Range
+__invalid__ TSH (THYROID STIMULATING HORMONE), SERUM
+__invalid__ 3rd Gen. ( TSH Ultrasensitive ) 1.94 ulU/mL 0.465 - 4.68
+__invalid__ Chemiluminescence Immuno Assay
+__invalid__ Method : AIA-360, TOSOH, Japan Chemiluminescence Immuno Assays (CLIA)/
+__invalid__ VITROS ECI
+__invalid__ COMMENT:
+__invalid__ THE LEVELS OF THYROID HORMONE (T3 & T4) ARE LOW IN CASE OF PRIMARY, SECONDARY AND TERTIARY
+__invalid__ HYPOTHYROIDISM AND SOMETIMES IN NONTHYROIDAL ILLNESS ALSO. INCREASED LEVELS ARE FOUND IN
+__invalid__ GRAVE~S DISEASE, HYPERTHYROIDISM AND THYROID HORMONE RESISTANCE. T3 LEVELS ARE ALSO RAISED IN T3
+__invalid__ THYROTOXICOSIS. TSH LEVELS ARE RAISED IN PRIMARY HYPOTHYROIDISM AND ARE LOW IN HYPERTHYROIDISM
+__invalid__ AND SECONDARY HYPOTHYROIDISM
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ **FINAL REPORT**
+__invalid__ He
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ | ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39, OLF Ind. Ar Kirti Nagar N Yelhi-110015
+__invalid__ D Ly Bi. ivi sank Colony Luckno' 1-226018 ~ustomer Car LGF 6 Warayan Pliaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ “S| DrReddvis o.com {R.) Lifespan Diagnostics Laboratories ECS ©. Gs)
+__invalid__ Cy) — nated ena TT Govt. of India Corporate ID No.: U74999DL2017PTC324311 en. sung IPPC Sex
+__invalid__ i Initiated by RLIFESPAN customer Care 9871 5¢ eee tel oO ~N@BL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UPAUTATII | lI | |
+__invalid__ Age/Sex  :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I?
+__invalid__ Client Name : DIRECT
+__invalid__ CLINICAL PATHOLOGY
+__invalid__ COMPLETE URINE ROUTINE ANALYSIS
+__invalid__ PHYSICAL EXAMINATION Urine
+__invalid__ QUANTITY 25 mL 15-50
+__invalid__ COLOUR Pale yellow
+__invalid__ TRANSPARENCY Clear
+__invalid__ SPECIFIC GRAVITY - 1.005 - 1.035
+__invalid__ Method : by Strip
+__invalid__ pH 7.5 4.7-7.5
+__invalid__ Method : by Strip
+__invalid__ CHEMICAL EXAMINATION Sirip Method
+__invalid__ ALBUMIN Trace* NEGATIVE or less than 30 mg/dl
+__invalid__ Method : by Photometry
+__invalid__ KETONES NEGATIVE NEGATIVE
+__invalid__ Method : by Photometry
+__invalid__ GLUCOSE NEGATIVE NEGATIVE
+__invalid__ Method : by GOD-POD
+__invalid__ UROBILINOGEN 0.27 mg/dL 0.2-1.0
+__invalid__ Method : Colour Reaction
+__invalid__ LEUCOCYTE ESTERASE NEGATIVE NEGATIVE
+__invalid__ Method : by Photometry
+__invalid__ NITRITE NEGATIVE NEGATIVE
+__invalid__ Method : by Photometry
+__invalid__ MICROSCOPIC EXAMINATION
+__invalid__ PUS CELLS 1-2 /hpf 0-5
+__invalid__ R.B.C's Absent /hpf 0-2
+__invalid__ EPITHELIAL CELLS 2-3 /hpft 0-5
+__invalid__ CRYSTALS Not detected NIL
+__invalid__ CASTS Not detected NIL
+__invalid__ YEAST CELLS NIL NIL
+__invalid__ OTHERS Absent NIL
+__invalid__ Method:- (Dip-strip) Processed on automated analyser SIEMENS CLINITEK advantus
+__invalid__ NOTE:
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ **END OF REPORT**
+__invalid__ h C- 8/3, River Bank Colony, Lucknow-226018. Customer Care LGF 6 Jarayan Plaza. Sitapur Road. Aligan), Lucknow-22602
+__invalid__ POM the rovcitistol ths t re alarms on weeepectal or ad cuterbaty chitteally, the pati pomedigter mas please cinta Che faberatears cmtmedsas topos checkout remedial aden,
+__invalid__ wee |) )rRedav' ab.com 9% Lifespan Diagnostics Laboratories I On Sy: (Ss)
+__invalid__ Cy) _— we — ° _ Govt. of India Corporate ID No.: U74999DL2017PTC324311 — tics TPPC SSEe
+__invalid__ lon Initiated by RLIFESPAN ~ustomer Care 987 BQ | torBeiterEspertences Osea TO Balen A garg
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UPAUTATII | lI | |
+__invalid__ Age/Sex  :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address -
+__invalid__ Client Name : DIRECT
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39. OLF Ind. Ar Kirti Nagar N Jelhi-110015
+__invalid__ 5 C B i. Rv Bank Colony, Luckno' +-226018. Customer Car LGF 6 Warayan Plaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topusal checkoot reamed ay
+__invalid__ Processing |#####                           | 3/19\\ y -— of . -— Govt. of India Corporate ID No.; U74999DL2017PTC324311 | tay  -ERPC ee
+__invalid__ ¥ Initiated by RLIFESPAN customer Care 987 BQ | forBetterkxperiences — MERATOECClence A aa
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I?
+__invalid__ Client Name : DIRECT
+__invalid__ BLOOD SUGAR FASTING
+__invalid__ Blood Sugar Fasting 92.0 mg/dl
+__invalid__ Techniques & Kits Used SIEMENS DIMENSION RxLMAX
+__invalid__ Interpretation
+__invalid__ [CPOE Without abetes fr peoptewithaabetes
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ **FINAL REPORT**
+__invalid__ pte
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ , C- 8/3, River Bank Colony, Lucknow-226018. Customer Care LGF 6 Jarayan Plaza. Sitapur Road. Aliganj, Lucknow-22602
+__invalid__ POM the rovcitistol ths t re alarms on weeepectal or ad cuterbaty chitteally, the pati pomedigter mas please cinta Che faberatears cmtmedsas topos checkout remedial aden,
+__invalid__ cor | DrReddyvlab.cor €9 Lifespan Diagnostics Laboratories Mh On ©) Gs)
+__invalid__ Cy) = we = ° — Govt. of India Corporate ID No.: U74999DL2017P11C324311 en. sug PPC See
+__invalid__ lam Initiated by RLIFESPAN customer Care 981 BQ | forBetterkxperiences — MERATOECClence A aa
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ COMPLETE HAEMOGRAN-23
+__invalid__ COMPLETE HEMOGRAM(EDTA)
+__invalid__ HEMOGLOBIN 16.1 gm% 13.3 -17.2
+__invalid__ Method :
+__invalid__ Photometric
+__invalid__ TOTAL LEUCOCYTE COUNT 6000 /COMM 3700 - 9700
+__invalid__ Method : Automated Electrical Resistance Impedance
+__invalid__ DIFFERENTIAL LEUCOCYTE COUNT
+__invalid__ POLYMORPHS 57 % 42.9 - 78.4
+__invalid__ Method : Flowcytometry
+__invalid__ LYMPHOCYTES 34 % 14.1 - 45.8
+__invalid__ Method : Flowcytometry
+__invalid__ EOSINOPHILS 5 % 0.0 - 6.0
+__invalid__ Method : Flowcytometry
+__invalid__ BASOPHILS 0 % 0.0 - 3.0
+__invalid__ Method : Flowcytometry
+__invalid__ MONOCYTES 4 % 3.2 - 16.7
+__invalid__ Method : Flowcytometry
+__invalid__ BAND CELLS 0 % 0.0- 5.0
+__invalid__ Method : Flowcytometry
+__invalid__ PLATELET COUNT 2.30 /cumm 1.79 - 3.73
+__invalid__ Method : Automated Electrical Resistance
+__invalid__ Impedance
+__invalid__ R.B.C 5.30 million/cumm 4,54 - 5.78
+__invalid__ Method : Automated Electrical Resistance
+__invalid__ Impedance
+__invalid__ PCV / HAEMATOCRIT 50.1 % 39 - 51
+__invalid__ Method : Automated Electrical Resistance
+__invalid__ Impedance
+__invalid__ MCV 94,53* lemto litres 81 - 94
+__invalid__ Method : Automated Electrical Resistance Impedance
+__invalid__ MCH 30.38 pico grams 27.10 - 32.50
+__invalid__ MCHC 32.14" G/DL 32.5 - 36.7
+__invalid__ RDW 12.25 % 11.5-14.1
+__invalid__ PCT - % 0.00 - 0.00
+__invalid__ ESR[WESTERGREN] 28* mm hr 0-20
+__invalid__ METHOD : Sedimentation
+__invalid__ PERIPHERAL SMEAR
+__invalid__ HAEMOPARASITES NO HAEMOPARASITES SEEN
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ *“END OF REPORT™
+__invalid__ r C- Bi: Riv Bank Colony, Lucknow-226018 Customer Care LGF 6 Narayan Plaz Sitapur Road. Aligan), Lucknow-22602
+__invalid__ WM th te ycl tthe t teal on amecpected ord cuteelate clticalls, (he pat rooney av please ciitas’ Che baboraters cminedsat tpow heckoat rem bss:
+__invalid__ wed | | ) Pe Le ac av ab Cam ce Lifes pan Diagnostics Laboratories il On 4 (Ss)
+__invalid__ d a EY bee Y ECL WL, ~~ an. cing. na. saannamiansontaanioss 4 > ae
+__invalid__ iy 5 NE ON NNN Govt. of India Corporate ID No.: U74999DL2017P1C324311 | iss —  TPPC NG
+__invalid__ PB Initiated by RLIFESPAN Sustomer Care 987 59 | rtiurhperine: Se N@BL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UPAUTATII | lI | |
+__invalid__ Age/Sex  :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address -
+__invalid__ Client Name : DIRECT
+__invalid__ K
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39. OLF Ind. Ar Kirti Nagar N Jelhi-110015
+__invalid__ 5 C B i. Rv Bank Colony, Luckno' +-226018. Customer Car LGF 6 Warayan Plaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topusal checkoot reamed ay
+__invalid__ co | DrReddvlab.com @ Lifespan Diagnostics Laboratories | i On oy a)
+__invalid__ CY aN ON Govt. of India Corporate ID No.: U74999DL2017PTC324311 | “ie TPPC Sex
+__invalid__ ~~ Initiated by RLIFESPAN customer Care 9871 59 | iorbeertiperienee’ ROIs NEBL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ Infection Screening
+__invalid__ ERYTHROCYTE SEDIMENTATION RATE 28* mnmv/hr Upto 20
+__invalid__ Method : Modified Westergren Method
+__invalid__ Method Modified Westergren Method
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ **FINAL REPORT**
+__invalid__ i
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ | ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39, OLF Ind. Ar Kirti Nagar N Yelhi-110015
+__invalid__ D Ly Bi. ivi sank Colony Luckno' 1-226018 ~ustomer Car LGF 6 Warayan Pliaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ ~& |\T)rReddvia b.cor 9% Lifespan Diagnostics Laboratories il On @). Ga)
+__invalid__ yw eran Govt. of India Corporate ID No: U74999DL2017eTC324311 | #e® ppc YY
+__invalid__ ~~ Initiated by RLIFESPAN customer Care 9871 59 | iorbeertiperienee’ ROIs NEBL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ ALLERGY SCREENING
+__invalid__ ABSOLUTE EOSINOPHIL COUNT (AEC), BLOOD 325 /cumm 40 - 440
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ **FINAL REPORT**
+__invalid__ Ks
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ | ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39, OLF Ind. Ar Kirti Nagar N Yelhi-110015
+__invalid__ D Ly Bi. ivi sank Colony Luckno' 1-226018 ~ustomer Car LGF 6 Warayan Pliaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ cor | DrReddyvlab.cor @ Lifespan Diagnostics Laboratories ECS ©. Gs)
+__invalid__ Cy) — etna Ante TT Govt. of India Corporate ID No.: U74999DL2017PTC324311 en. ing IPPC See
+__invalid__ f= Initiated by RLIFESPAN Sustomer Care 9871 BQ | forBeicertxperiences  MeaeaTOBtorce NRL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID 35423 Sample Received On : 16/05/20, 10:09 PM UNA UI | | | |
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ KIDNEY (17 Parameters)
+__invalid__ BLOOD UREA LEVEL 24.50 mg/dl 15-44
+__invalid__ Method : SPECTROPHOTOMETRY, UREASE UV,
+__invalid__ BERTHELOT METHOD
+__invalid__ CREATININE 0.76 mg/dl 0.5-1.5
+__invalid__ Method : SPECTROPHOTOMETRY,
+__invalid__ ENZYMATIC-PAP METHOD
+__invalid__ URIC ACID , 5.80 mg/dl 2-7
+__invalid__ by SPECTROPHOTOMETRY, TOOS
+__invalid__ Method : SPECTROPHOTOMETRY, TOOS
+__invalid__ METHOD
+__invalid__ BUL/CREATININE RATIO 32.24 mg/dl -
+__invalid__ Method : Calculated
+__invalid__ BLOOD UREA NITROGEN 11.45 mg/dl 7.80 - 20.0
+__invalid__ Method : Calculated
+__invalid__ BUN/CREATININE RATIO 15.07 -
+__invalid__ Method : Calculated
+__invalid__ TOTAL PROTEIN 7.10 gm/dl 6.6 - 8.8
+__invalid__ Method : SPECTROPHOTOMETRY, BIURET
+__invalid__ WITH SAMPLE BLANK METHOD
+__invalid__ ALBUMIN 4.40 gm/dl 3.5-5.2
+__invalid__ Method : SPECTROPHOTOMETRY,
+__invalid__ BROMOCRESOL GREEN METHOD
+__invalid__ ALKALINE PHOSPHATASE 91.0 U/L 53-128
+__invalid__ Method : IFCC METHOD
+__invalid__ GLOBULIN 2.7* gm/dl 2.8-3.4
+__invalid__ Method : Calculated
+__invalid__ A:G RATIO 1.63 -
+__invalid__ Method : Calculated
+__invalid__ SODIUM 136.8 mmol/l 135 - 155
+__invalid__ Method : ISE METHOD
+__invalid__ POTASSIUM 4.21 meq/Lt 3.5-5.5
+__invalid__ Method : ISE METHOD
+__invalid__ CHLORIDE 95.76* mmol/l 96-115
+__invalid__ Method : ISE METHOD
+__invalid__ CALCIUM 9.20 mg/dl 8.6-11.3
+__invalid__ Method : SPECTROPHOTOMETRY,
+__invalid__ PHOSPHONAZO METHOD
+__invalid__ IONIZED CALCIUM 1.31 mmol/Lt 1.12 - 1.32
+__invalid__ Method : CALCULATED
+__invalid__ P C- 813. Riv Bank Colony, Lucknow-226018. Customer Care LGF 6 Jarayan Plaza. Sitapur Road. Aligan), Lucknow-22602
+__invalid__ POM the rovcitistol ths t re alarms on weeepectal or ad cuterbaty chitteally, the pati pomedigter mas please cinta Che faberatears cmtmedsas topos checkout remedial aden,
+__invalid__ c& |DrReddvlab.com @% Lifespan Diagnostics Laboratories| fl On @) a)
+__invalid__ yw eran Govt. of India Corporate ID No: U74999DL2017eTC324311 | #e® ppc YY
+__invalid__ ~~ Initiated by RLIFESPAN customer Care 9871 59 | iorbeertiperienee’ ROIs NEBL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UPAUTATII | lI | |
+__invalid__ Age/Sex  :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ CORRECTED CALCIUM 12.72* mg/dl 8.5- 10.2
+__invalid__ Method : CALCULATED
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ *“*END OF REPORT**
+__invalid__ i
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39. OLF Ind. Ar Kirt: Nagar WN: Yelhi-110015
+__invalid__ D C B i; Riv Bank Colony, Luckno' +-226018 ~ustomer Car LGF 6 Warayan Piaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ Qi DrReddvlab.cor @ Lifespan Diagnostics Laboratories Ke ©: Gs)
+__invalid__ \\ y is oo J ~ ~~ Govt. of India Corporate ID No.: U74999DL2017P1C324311 Lifespan & IPPC Jomnt Hand TPPC Ew
+__invalid__ ¥ Initiated by RLIFESPAN customer Care 987 BQ | forBetterkxperiences — MERATOECClence A aa
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I?
+__invalid__ Client Name : DIRECT
+__invalid__ LIVER (11 Parameter Reports)
+__invalid__ BILIRUBIN TOTAL 0.70 mg/dl 0.2-1.0 Children
+__invalid__ by SPECTROPHOTOMETRY, DCA METHOD 0.1-1.2 Adult
+__invalid__ BILIRUBIN DIRECT 0.20 mg/dl <=0.2
+__invalid__ by SPECTROPHOTOMETRY, DCA METHOD
+__invalid__ BILIRUBIN INDIRECT 0.5 mg/dl upto 0.7
+__invalid__ by CALCULATED
+__invalid__ ALANINE AMINOTRANSFERASE(ALT/SGPT) 47.00* U/L <41
+__invalid__ by SPECTROPHOTOMETRY, IFCC METHOD
+__invalid__ ASPARTATE AMINOTRANSFERASE 26.00 U/L <35
+__invalid__ (AST/SGOT)
+__invalid__ by SPECTROPHOTOMETRY, IFCC METHOD
+__invalid__ SGOT/SGPT RATIO 0.55 -
+__invalid__ by CALCULATED
+__invalid__ TOTAL PROTEIN 7.10 gm/dl 6.6 - 8.8
+__invalid__ by SPECTROPHOTOMETRY, BIURET WITH SAMPLE BLANK
+__invalid__ METHOD
+__invalid__ ALBUMIN 4.40 gm/dl 3.5-5.2
+__invalid__ by SPECTROPHOTOMETRY, BROMOCRESOL GREEN METHOD
+__invalid__ GLOBULIN 2.7* gm/dl 2.8 -3.4
+__invalid__ by CALCULATED
+__invalid__ ALBUMIN/GLOBULIN RATIO 1.63 -
+__invalid__ by CALCULATED
+__invalid__ ALKALINE PHOSPHATASE 91.0 U/L 53-128
+__invalid__ by SPECTROPHOTOMETRY, IFCC METHOD
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ **FINAL REPORT**
+__invalid__ pt
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ P C- 813. Riv Bank Colony, Lucknow-226018. Customer Care LGF 6 Jarayan Plaza. Sitapur Road. Aligan), Lucknow-22602
+__invalid__ POM the rovcitistol ths t re alarms on weeepectal or ad cuterbaty chitteally, the pati pomedigter mas please cinta Che faberatears cmtmedsas topos checkout remedial aden,
+__invalid__ cf | DrReddylab.com | @ Lifespan Diagnostics Laboratories | MGM “@s Gay
+__invalid__ Cy) _— ~ ~ eee Govt. of India Corporate ID No.: U74999DL2017P1C324311 en. ag LEPC
+__invalid__ lam Initiated by RLIFESPAN customer Care 981 BQ | forBetterkxperiences — MERATOECClence A aa
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I?
+__invalid__ Client Name : DIRECT
+__invalid__ HEART-8
+__invalid__ CHOLESTEROL 271.0* mg/dl Desirable : < 200 mg/dl
+__invalid__ by SPECTROPHOTOMETRY, CHOD-PAP METHOD Borderline high : 200- 239 mg/dl
+__invalid__ High : > 240 mg/dl
+__invalid__ TRIGLYCERIDES 207.0* mg/dl Desirable :< 150 mg/dl
+__invalid__ by SPECTROPHOTOMETRY, GPO-PAP METHOD Borderline high : 150 - 199 mg/dl
+__invalid__ Very High : > 500 mg/dl
+__invalid__ CHOLESTEROL HDL 37.0 mg/dl Increased risk : < 40 mg/dl
+__invalid__ by SPECTROPHOTOMETRY, Immunoinhibition METHOD Average risk : 40 - 50 mg/dl
+__invalid__ Less Than average risk : > 60 mg/dl
+__invalid__ CHOLESTEROL VLDL 41.4 mg/dl 5-51
+__invalid__ by CALCULATED
+__invalid__ CHOLESTEROL LDL Direct 192.6* mg/dl
+__invalid__ by CALCULATED
+__invalid__ LDL/ HDL RATIO 5.21* Low risk 1<3.5
+__invalid__ by CALCULATED Average risk : 3.5 - 5.0
+__invalid__ High risk :>5.0
+__invalid__ HDL/LDL Cholesterol Ratio 0.19 -
+__invalid__ by CALCULATED
+__invalid__ TC ( Total Cholesterol )/ HDL Cholesterol Ratio 7.32 -
+__invalid__ by CALCULATED
+__invalid__ NOTE:-
+__invalid__ Interpretation(s) TRIGLYCERIDES CAN SHOW MARKED VARIATION DEPENDING ON PREVIOUS DAY DIET INTAKE, 12
+__invalid__ HRS FASTING IS MANDATORY BEFORE TESTING OF LIPID PROFILE SPECIALLY FOR TRIGLYCERIDES
+__invalid__ RESULTS(VALUES), IN CASE, LIPID PROFILE IS DONE IN NON-FASTING STATE, THEN ANY ABNORMAL VALUE,
+__invalid__ ESPECIALLY FOR TRIGLYCERIDE MUST BE RETESTED ON OVERNIGHT FASTING BLOOD SAMPLE, BY CALCULATED
+__invalid__ LDL & VLDL VALUES MAY BE HIGHLY VARIABLE IF NON FASTING BLOOD SAMPLE TESTED.
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ *“*FINAL REPORT**
+__invalid__ st
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ h C- 813. Riv Bank Colony, Lucknow-226018. Customer Care LGF 6 Jarayan Plaza. Sitapur Road. Aligan), Lucknow-22602
+__invalid__ POM the rovcitistol ths t re alarms on weeepectal or ad cuterbaty chitteally, the pati pomedigter mas please cinta Che faberatears cmtmedsas topos checkout remedial aden,
+__invalid__ Si DrReddvis o.com 9 Lifespan Diagnostics Laboratories Il | On ©) Gs)
+__invalid__ Cy, — mnie mnie oe Govt. of India Corporate ID No.: U74999DL2017PTC324311 eS _,, TPPC  \Saey’
+__invalid__ r= Initiated by RLIFESPAN ~UstomerCare 984 = ¢ Mae en era Dedised To Balen AN ea
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT I {IH | [|
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ Welcome Letter
+__invalid__ Welcome to Drreddylab.com initiated by Rlifespan
+__invalid__ It is our great pleasure to welcome you on board to our esteemed member your family’s Health care needs. We at
+__invalid__ DrReddyLab.com go extra mile when it comes to the Health of your family.
+__invalid__ Ideology & Philosophy
+__invalid__ * Strictly believes in building the ‘Trust of Patients, Doctor and Business Associate. - Maintains uncompromised quality at
+__invalid__ affordable prices. * Has a dedicated patients/customer care team to handle all queries with prompt action. - The laboratory and
+__invalid__ R&D team provides technical support along with the latest information on test & technologies. - Committed to upgrade Test
+__invalid__ Menu on regular basis. - Qualified technical staff to maintain accuracy of reports and faster TAT (Turn Around Time). * Focus on
+__invalid__ pre & post analytical error prevention. Providing a convenient and real time platform for our patients and business associates
+__invalid__ through a robust IT network for:- Hi Sample Booking HM Sample Tracking Hi Sample Testing visualization*(prior appointment)
+__invalid__ Online Report Tracking ™@ Client FAQs and Grievance redressal ll Digital Payments (As per GOI Guidelines).
+__invalid__ M@ If the result(s) of the test(s) are alarming or unexpected or do not correlate clinically or Lipemic_ sample always give
+__invalid__ abnormal result(s) please talk to your family doctors (about Lipemia Please r
+__invalid__ https ://www.ncbi.nim.nih.gov/pmc/articles/PMC3936974/), the patient/referring doctor may please contact the laboratory
+__invalid__ immediately for possible recheck or remedial advice on 01145600260/+91-9953748579 I Free repeat sample requests will be
+__invalid__ accepted on request of the referring doctor upto 7 days post reporting.
+__invalid__ Terms Of Use
+__invalid__ 1. The specimens received are presumed to be of the patient’s named on the samples. 2. All test results are dependent on the
+__invalid__ quality of the sample received by the laboratory. 3. The findings and observations in the report pertain to the specimen
+__invalid__ submitted. 4. All investigations have their limitations which are imposed by the limits of sensitively and specificity of the individual
+__invalid__ assay procedures and the condition of the sample received by the laboratory. 5. The specimens received are discarded after
+__invalid__ conducting the required tests unless otherwise prior informed. 6. In the event of unforeseen circumstances or technical reasons,
+__invalid__ performance and/ or reporting date and time of tests may be changed. 7. The courts (Forums) at New Delhi shall have exclusive
+__invalid__ jurisdiction in all disputes/ claims concerning the test(s) and/ or result(s) of the rest(s). 8. Laboratory investigations only help in
+__invalid__ arriving at a diagnosis and should be correlated with the clinical presentation and other relevant investigations. 9. Results of tests
+__invalid__ may vary from laboratory to laboratory and also in some parameters from time to time for the same patient.10. Neither R
+__invalid__ LIFESPAN nor its employees/ representatives assume any liability, responsibility for any loss or damage that may be incurred by
+__invalid__ any person as a result of presuming the meaning or contents of the report. 11. All reports have to be correlated clinically.
+__invalid__ Suggestions: 1. Values out of reference range require reconfirmation before starting any medical treatment. 2. Retesting is
+__invalid__ needed if you suspect quality shortcomings.
+__invalid__ Please get in touch with us if you have any query during our working hours between 10 a.m. to 6.30 p.m. (Monday to Saturday).
+__invalid__ By choosing DrReddyLab.com, you have shown your faith in us. We plan to live up to that trust.
+__invalid__ Sincerely,
+__invalid__ DrReddyLab.com Team(Initiated By Rlifespan)
+__invalid__ Write a Review about Our Services.
+__invalid__ *“END OF REPORT*™
+__invalid__ h C- 813. Riv Bank Colony, Lucknow-226018. Customer Care LGF 6 Jarayan Plaza. Sitapur Road. Aligan), Lucknow-22602
+__invalid__ POM the rovcitistol ths t re alarms on weeepectal or ad cuterbaty chitteally, the pati pomedigter mas please cinta Che faberatears cmtmedsas topos checkout remedial aden,
+__invalid__ wed | | ) Pe Le ac av ab Cam ce Lifes pan Diagnostics Laboratories il On 4 (Ss)
+__invalid__ d a EY bee Y ECL WL, ~~ an. cing. na. saannamiansontaanioss 4 > ae
+__invalid__ iy 5 NE ON NNN Govt. of India Corporate ID No.: U74999DL2017P1C324311 | iss —  TPPC NG
+__invalid__ PB Initiated by RLIFESPAN Sustomer Care 987 59 | rtiurhperine: Se N@BL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UPAUTATII | lI | |
+__invalid__ Age/Sex  :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address -
+__invalid__ Client Name : DIRECT
+__invalid__ K
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39. OLF Ind. Ar Kirti Nagar N Jelhi-110015
+__invalid__ 5 C B i. Rv Bank Colony, Luckno' +-226018. Customer Car LGF 6 Warayan Plaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topusal checkoot reamed ay
+__invalid__ cor | DrReddyvlab.cor @ Lifespan Diagnostics Laboratories | On @) Ga)
+__invalid__ CY aN eee Govt. of India Corporate ID No: U74999DL2017PTc324311 | ‘es™ = 9 tppc
+__invalid__ ~~ Initiated by RLIFESPAN customer Care 9871 59 | iorbeertiperienee’ ROIs NEBL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UPAUTATII | lI | |
+__invalid__ Age/Sex  :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ BIOCHEMISTRY
+__invalid__ EGFR
+__invalid__ Test Description Assayed on Bs400 Fully Auto Biochem Analyser
+__invalid__ Creatinine 0.76" mg/dl 0.9-1.4
+__invalid__ e-GFR (Automatic Reporting : Original MDRD 118.63 mL/min/1.73m2 As per NKDEP (ml/min/173m“2)
+__invalid__ study equation) >59 : normal or mild impairment
+__invalid__ 30-59 : mod decrease (Stage III CKD)
+__invalid__ 15-29 : severe decreased (Stage IV
+__invalid__ CKD)
+__invalid__ <16 : end Stage kidney failure (Stage
+__invalid__ V CKD) (Refer NKDEP guidelines for
+__invalid__ details) ISHITA
+__invalid__ Method : Kinetic Colorimetric Jaffé method
+__invalid__ METHOD Selectra EM 180 fully auto biochem analyser
+__invalid__ Comments :
+__invalid__ Modification of diet in renal disease (MDRD) equation is most thoroughly validated an superior to all the other method for
+__invalid__ estimation of GFR. It does not require weight as a variable and yields an estimated GFR normalized to 1.73m2 body surface
+__invalid__ area. Using serum creatinine alone gives a poor inference of GFR because they are inversely related and effects of age,sex and
+__invalid__ race on creatinine production complicate interpretation. For African races a modified formula is used for calculation of GFR.
+__invalid__ National Kidney Disease Education program recommends the use of MDRD equation to estimate or predict GFR in adults (>=20
+__invalid__ years) with chronic Kidney Disease (CKD). * MDRD equation is most accurate for GFR <=60 mL/min/1.73m2 * Recalculation of
+__invalid__ estimated GFR is required for African American race.
+__invalid__ * e-GFR result is interpreted for age group 17 to 70 yrs as per MKDEP guideline.
+__invalid__ NOTE:- If you are younger than 18, pregnant, very overweight or very muscular. Talk to your doctor to find out if this
+__invalid__ test is right for you.
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ **FINAL REPORT**
+__invalid__ Ki
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ Lat 8-29. F F Main Matiyala Road Kiran Garden. New Oeth:-110059. Customer Car 8-39, OLF Ind. Ar Kirti Nagar N Jelhi-110015
+__invalid__ 5 C B i. Rv Bank Colony, Luckno' +-226018. Customer Car LGF 6 Warayan Plaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ co | DrReddvlab.com @ Lifespan Diagnostics Laboratories | i On oy Ga)
+__invalid__ yw ae eM ON eee Govt. of India Corporate ID No. U74999DL2017PT¢324311 | “aes® = Tppc EY
+__invalid__ ~~ Initiated by RLIFESPAN customer Care 9871 59 | iorbeertiperienee’ ROIs NEBL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UNA UI | | | |
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address -
+__invalid__ Client Name : DIRECT
+__invalid__ T3 & T4
+__invalid__ T3 ( TRIIODOTHYRONINE ) 1.13 ng/ml 0.87 - 1.78
+__invalid__ Chemiluminescence Immuno Assay
+__invalid__ T4 ( THYROXINE )T4 ( THYROXINE ) 7.3 ng/dl 6.09 - 12.23
+__invalid__ Chemiluminescence Immuno Assay
+__invalid__ Techniques & Kits Used CLIA, AIA-360, TOSOH, Japan
+__invalid__ Remark
+__invalid__ Interpretation:
+__invalid__ NOTE :
+__invalid__ *Kindly co-relate clinically, if found an unexpected result, immediately call to the laboratory for possible recheck & revised report.
+__invalid__ **FINAL REPORT**
+__invalid__ L. pst
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ | ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39, OLF Ind. Ar Kirti Nagar N Yelhi-110015
+__invalid__ D Ly Bi. ivi sank Colony Luckno' 1-226018 ~ustomer Car LGF 6 Warayan Pliaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ 2 \DrReddvil3 io cam 9% Lifespan Diagnostics Laboratories I On @). Ga)
+__invalid__ Cy en Riiecepan Govt. of India Corporate IDNo.: U74999DL2017PTC324311 | ARS? = appC Nae
+__invalid__ PB Initiated by RLIFESPAN Sustomer Care 987 59 | rtiurhperine: Se N@BL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ VITAL VITAMINS (VITAMIN B12 & 25-OH-VITAMIN-D3)
+__invalid__ VITAMIN B12 218 pg/ml Normal 180-914
+__invalid__ Chemiluminescence Immuno Assay Indeterminate Range : 145 - 180
+__invalid__ Deficiency :< 145
+__invalid__ LINEARITY 50 - 1500
+__invalid__ Techniques & kits Used VITROS Eci, CLIA.
+__invalid__ 25-OH-VITAMIN-D
+__invalid__ VITAMIN D TOTAL 27.69" ng/ml Deficient :<20
+__invalid__ Chemiluminescence Immuno Assay Insufficient :20 - 29
+__invalid__ Sufficient : 30 - 100
+__invalid__ Potential toxicity : >100
+__invalid__ LINEARITY Low detection limit :< 8.1
+__invalid__ High detection limit : 167.0
+__invalid__ Techniques & Kits VITROS Eci, CLIA
+__invalid__ Remark -
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ *“END OF REPORT*™
+__invalid__ Kp
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ Lat 8-29. F F Main Matiyala Road Kiran Garden. New Oeth:-110059. Customer Car 8-39, OLF Ind. Ar Kirti Nagar N Jelhi-110015
+__invalid__ D @ Bi. Riv sank Colony (uCcCKno! 1+-226018 Yustomer Car: LGF 6 Warayan Pliaz Sitapu Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ <& |DrReddvlab.com | © Lifespan Diagnostics Laboratories I On D> (4)
+__invalid__ Cy en Riiecepan Govt. of India Corporate ID.No. U74999DL2017PTC324311 | Ae = gppc | RAY
+__invalid__ ~~ Initiated by RLIFESPAN customer Care 9871 59 | iorbeertiperienee’ ROIs NEBL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UMA ULIT | | {IH | [|
+__invalid__ Age/Sex : 43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address I
+__invalid__ Client Name : DIRECT
+__invalid__ HbA1C (GLYCOSYLATED HAEMOGLOBIN)
+__invalid__ HbA1C (GLYCOSYLATED HEMOGLOBIN), 5.7 % Normal :4-6.1
+__invalid__ BLOOD
+__invalid__ Interpretation
+__invalid__ Diabetics require long term maintanance of the blood glucose level as close as possible to the normal level to minimise the risk
+__invalid__ of long term vascular- consequences. A single blood glucose measurement is an indication of the patients present condition but
+__invalid__ does not represent the true status of blood glucose regulation. An accurate index of mean blood glucose concentration may be
+__invalid__ established by the measurement of HbA1c. Levels of HbAic depend on the life span of the RBCs and mean blood glucose
+__invalid__ concentration for the preceding 2-3 months. Hence, Hb A1c should be routinely done at least every 3 months in all diabetics.
+__invalid__ DIABETIC DIABETIC DIABETIC
+__invalid__ >6.5 >6.5 >6.5
+__invalid__ PRE-DIABE TIC PRE-DIABE TIC PRE-DIABETIC
+__invalid__ 5.7-6.5 5.7-6.5 5.7-6.5
+__invalid__ NORMAL NORMAL NORMAL
+__invalid__ <5.7 <5.7 <5.7
+__invalid__ Method HLC-723 GX TOSOH Japan HPLC Chromatograph
+__invalid__ Graph:
+__invalid__ NOTE :
+__invalid__ Kindly co-relate clinically and with other investigations, if found an unexpected result(s), immediately call to the laboratory for
+__invalid__ possible recheck & revised report.
+__invalid__ **END OF REPORT**
+__invalid__ re
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ | ak 8-29. F F Main Matiyala Road Kiran Garden. New ODeth)-110059. Customer Car B-39, OLF Ind. Ar Kirti Nagar N Yelhi-110015
+__invalid__ D C B i; Riv Bank Colony, Luckno' +-226018 ~ustomer Car LGF 6 Warayan Piaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ ~& | DrReddvla b.cor 9% Lifespan Diagnostics Laboratories il On ©) Ga)
+__invalid__ yw ee Govt. of India Corporate ID No. U74999DL2017PT¢324311 | “aes® = Tppc EY
+__invalid__ ~~ Initiated by RLIFESPAN customer Care 9871 59 | iorbeertiperienee’ ROIs NEBL
+__invalid__ Name [Yd Sample Collected On : 16/05/20, 01:17 PM Sample Type : Serum
+__invalid__ UID : 35423 Sample Received On : 16/05/20, 10:09 PM UPAUTATII | lI | |
+__invalid__ Age/Sex  :43 years / Male Report Released On : 18/05/20, 01:28 PM 0002713720
+__invalid__ Ref. Doctor : DIRECT Client Address -
+__invalid__ Client Name : DIRECT
+__invalid__ SEROLOGY
+__invalid__ CRP (C-- REACTIVE PROTEIN QUALITATIVE)
+__invalid__ CRP Non Reactive
+__invalid__ Method Immunoturbidometric Method
+__invalid__ NOTE :
+__invalid__ *Kindly co-relate clinically, if found an unexpected result, immediately call to the laboratory for possible recheck & revised report.
+__invalid__ **FINAL REPORT**
+__invalid__ Dr. K.P.Singh
+__invalid__ DCP (V.Pathologist)
+__invalid__ Consultant
+__invalid__ Lak B-29 FF Main Matiyala Road Kiran Garden. New Oeth:-110059. Customer Car B-39, OLF Ind. Ar Kirti Nagar. Ni elhi-110015
+__invalid__ D C B i; aah A Bank Colony, Luckno' +-226018 ~ustomer Car LGF 6 Warayan Plaz Sitapur Road Aligan). Lucknow-22602
+__invalid__ we itth es bth t te alarms on aeeapectal 1 cureedate cdanicalls, the pati pene thi! navel ase vinta € Pee aters ctmine dian topos chechoor seamed ay
+__invalid__ Least_Important.pdf -----------------------------------------------------------------------------
+__invalid__ a =
+__invalid__ This is the latest updated report as at: 16 October 2020 14:23:00 D | f \G N QO S T | C S
+__invalid__ leading the way
+__invalid__ NAME SS, PAGE : 1/1
+__invalid__ SEX/AGE : MALE/30 YR LAB NO : 2234066/20
+__invalid__ : DR GOH KIAN PENG
+__invalid__ Address : SAINT-JULIEN CLINIC Date Of Request : 16/10/2020
+__invalid__ : 820 THOMSON ROAD Date Of Report : 16/10/2020
+__invalid__ : #05-58 MT ALVERNIA HOSPITAL Lab ID# : CS06234432
+__invalid__ : MEDICAL CENTRE D NRIC/PP : $8984906C
+__invalid__ : SINGAPORE 574623
+__invalid__ RefNo : 14003484
+__invalid__ : GTT2B (2 BLOOD SPECIMENS)
+__invalid__ BRABRE RESULT = REF.RANGE £444 RESULT REF.RANGE £ #44
+__invalid__ Glucose (Fasting) to. HE 57 mmol/L 103 mg/dL
+__invalid__ PQ}. A} do. $B 12.3* mmol/L 221* mg/dL
+__invalid__ GTT RESULT INTERPRETATION FASTING 2ND HOUR
+__invalid__ Normal 70-108 mg/dL <140 mg/dL
+__invalid__ Impaired Glucose Tolerance <126 mg/dL 140-198 mg/dL
+__invalid__ Impaired Fasting Glycaemia 110-124 mg/dL <140 mg/dL
+__invalid__ Diabetes Mellitus 2>126 mg/dL 2200 mg/dL
+__invalid__ Gestational Diabetes (WHO- 1999) >126 mg/dL 2140 mg/dL
+__invalid__ Gestational Diabetes (IADPSG-2010) 292 mg/dL 2153 mg/dL
+__invalid__ (Based on 75g Glucose Challenge)
+__invalid__ GTT RESULT INTERPRETATION FASTING 2ND HOUR
+__invalid__ Normal 3.9-6.0 mmol/L <7.8 mmol/L
+__invalid__ Impaired Glucose Tolerance <7.0 mmol/L 7.8-11.0 mmol/L
+__invalid__ Impaired Fasting Glycaemia 6.1-6.9 mmol/L <7.8 mmol/L
+__invalid__ Diabetes Mellitus >7.0 mmol/L >11.1 mmol/L
+__invalid__ Gestational Diabetes (WHO-1999) >7.0 mmol/L >7.8 mmol/L
+__invalid__ Gestational Diabetes IADPSG-2010) >5.1 mmol/L >8.5 mmol/L
+__invalid__ (Based on 75g Glucose Challenge)
+__invalid__ Note: All in-house tests are performed at Frontech Centre
+__invalid__ Dr Issam Al Jajeh ACCREDITE bw
+__invalid__ Medical Director and Pathologist COLLEGE o ANERICAN PATHOLOGIE
+__invalid__ Diplomate of the American Board of Pathology
+__invalid__ Laboratory results should always be interpreted by a registered medical practitioner together with the patient's medical history and clinical findings.
+__invalid__ MAIN LABORATORY * *Frantech Centre, Level 5-01 to 5-07, 15 Jalan Kilang Barat, Singapore 159357 Tel: 6235 6950 Fax. 6733 8563 — ~ This report is validated through the laboratory information system,
+__invalid__ LABORATORY Frontech Centre, Level 8-01 to 8-05, 15 Jalan Kilang Barat, Singapore 159357 Tel: 6235 6950 Fax: 6733 8563 Na signature is required.
+__invalid__ STAT LABORATORY Camden Medical Centre, Level 9-06 to 9-07, 1 Orchard Boulevard, Singapore 248649 Tel: 6333 6640 Fax: 6333 6642 ** The CAP Certification Mark for the Main Laboratory is a service mark
+__invalid__ STAT LABGRATORY Royal Square at Novena, Level 07-02, 101 Irrawaddy Road, Singapore 329565 Tel: 6734 0778 Fax. 6734 0773 owned by CAP and is used pursuant to a license from CAP.
+__invalid__ f F f RCB REG No:: 19-9600742-2
+__invalid__ Innovative Diagnostics Pte. Ltd. cynics
